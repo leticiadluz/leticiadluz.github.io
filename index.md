@@ -42,5 +42,4 @@ Imagem da curva ROC que ilustra o desempenho do modelo de classificação binár
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+© 2024 Leticia da Luz. Desenvolvido por Jekyll e the Minimal Theme.
