@@ -15,7 +15,7 @@ Para o treinamento do modelo, utilizamos três algoritmos: o **GLM (General Line
 
 O dataset original pode ser acessado clicando [aqui](https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data) 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="fotos_modelos/curva_roc.jpg"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
