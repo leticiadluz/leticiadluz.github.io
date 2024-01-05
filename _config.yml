@@ -13,7 +13,5 @@ description:
   <br><br>
   Atualmente cursando Ciência de Dados pela Data Science Academy e também pela Ada Tech por meio do programa Santander Coders.
 
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+theme: jekyll-theme-minimal
+
