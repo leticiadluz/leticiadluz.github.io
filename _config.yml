@@ -1,12 +1,17 @@
-title: Leticia da Luz # your name (or website title) here
-logo: "/Imagens/profile-pic.png" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+title: Leticia da Luz # your name here
+logo: "/Imagens/profile-pic.png" # your photo here
+
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/leticiadluz/">LinkedIn</a> |
+  <a href="https://github.com/leticiadluz">GitHub</a>
+  </p>
+  <p align="justify">
+  Farmacêutica graduada pela Universidade Federal do Paraná, atualmente em transição de carreira para a área de Ciência de Dados. 
+  Desenvolvi habilidades em análise crítica, interpretação de dados e pesquisa científica durante minha formação. 
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-  
+  Atualmente cursando Ciência de Dados pela Data Science Academy e também pela Ada Tech por meio do programa Santander Coders.
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
