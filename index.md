@@ -15,6 +15,7 @@ Para o treinamento do modelo, utilizamos três algoritmos: o **GLM (General Line
 
 O dataset original pode ser acessado clicando [aqui](https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data) 
 
+Imagem da curva ROC que ilustra o desempenho do modelo de classificação binária:
 <img src="fotos_modelos/curva_roc.jpg"/>
 
 ---
