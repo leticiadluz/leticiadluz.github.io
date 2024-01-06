@@ -4,7 +4,7 @@
 
 ## Classificação
 
-### Avaliação de Risco de Crédito
+### Avaliação de Risco de Crédito em linguagem R
 Este projeto tem como objetivo desenvolver um modelo preditivo destinado a classificar o risco de concessão de crédito para os clientes de uma instituição bancária. O objetivo principal é aprimorar a tomada de decisões relacionadas à concessão de crédito por meio da implementação de um modelo que avalie de forma precisa e eficiente o risco associado a cada cliente.  
 
 O conjunto de dados 'German Credit Data' será usado para construir e treinar o modelo, neste experimento. Este dataset é baseado em dados reais gerados por um pesquisador da Universidade de Hamburgo, na Alemanha.  
