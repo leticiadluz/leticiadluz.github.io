@@ -14,7 +14,7 @@ description:
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         p {
-            font-size: 18px; /* Ajuste o valor conforme necessário */
+            font-size: 24px; /* Ajuste o valor conforme necessário */
         }
     </style>
     <title>Seu Título</title>
