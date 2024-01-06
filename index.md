@@ -13,7 +13,7 @@ Para o treinamento do modelo, utilizamos três algoritmos: o **GLM (General Line
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/leticiadluz/mini_projetos_ML_R/blob/main/Classificacao_avaliacao_risco_credito_R.ipynb)
 
-O dataset original pode ser acessado clicando [aqui](https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data) 
+<span style="font-size: 16px;">O dataset original pode ser acessado clicando [aqui](https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data) 
 
 Imagem da curva ROC que ilustra o desempenho do modelo de classificação binária:
 <img src="fotos_modelos/curva_roc.jpg"/>
