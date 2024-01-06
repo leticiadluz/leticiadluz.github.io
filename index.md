@@ -25,11 +25,15 @@
 
 <span style="font-size: 16px;"> O projeto Prevendo o Consumo de Energia de Carros Elétricos tem como propósito desenvolver um modelo de Machine Learning capaz de prever o consumo de energia de carros elétricos. 
 
-Na construção do modelo, empregou-se a biblioteca **RandomForest** para avaliar a importância das variáveis. Ao final desse processo, optou-se pela utilização do **modelo de regressão** linear para a criação do modelo final. 
+<span style="font-size: 16px;">Na construção do modelo, empregou-se a biblioteca **RandomForest** para avaliar a importância das variáveis. Ao final desse processo, optou-se pela utilização do **modelo de regressão** linear para a criação do modelo final. 
 
-Já a avaliação de desempenho do modelo de regressão inclui a análise de métricas fundamentais, como o **Erro Quadrático Médio (MSE)**, a **Raiz do Erro Quadrático Médio (RMSE)** e o **Coeficiente de Determinação (R²)**. Além disso, são realizadas verificações adicionais, como a avaliação da **homocedasticidade** para assegurar a constância da variância dos resíduos ao longo dos valores preditos, assim como a verificação da **normalidade** dos resíduos.
+<span style="font-size: 16px;">Já a avaliação de desempenho do modelo de regressão inclui a análise de métricas fundamentais, como o **Erro Quadrático Médio (MSE)**, a **Raiz do Erro Quadrático Médio (RMSE)** e o **Coeficiente de Determinação (R²)**. Além disso, são realizadas verificações adicionais, como a avaliação da **homocedasticidade** para assegurar a constância da variância dos resíduos ao longo dos valores preditos, assim como a verificação da **normalidade** dos resíduos.
 
 <span style="font-size: 16px;">A base de dados  é composta por 53 carros elétricos e pode ser acessada clicando [aqui](https://data.mendeley.com/datasets/tb9yrptydn/2)
+<span style="font-size: 16px;">[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/leticiadluz/mini_projetos_ML_R/blob/main/Consumo_carros_eletricos_ML.ipynb)
+
+<span style="font-size: 16px;">Abaixo apresenta-se o Gráfico de Resíduos versus Valores Ajustados, auxiliando na verificação da suposição de homocedasticidade, juntamente com um histograma para avaliação da normalidade dos resíduos:
+<img src="fotos_modelos/residuos.jpg"/>
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
