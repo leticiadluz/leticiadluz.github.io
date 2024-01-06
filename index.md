@@ -5,12 +5,9 @@
 ## Classificação
 
 ### Avaliação de Risco de Crédito em linguagem R
-<span style="font-size: 16px; text-align: center; display: block; margin: 0 auto;">Este projeto tem como objetivo desenvolver um modelo preditivo destinado a classificar o risco de concessão de crédito para os clientes de uma instituição bancária. O objetivo principal é aprimorar a tomada de decisões relacionadas à concessão de crédito por meio da implementação de um modelo que avalie de forma precisa e eficiente o risco associado a cada cliente.  
-</span>
-<span style="font-size: 16px; text-align: center; display: block; margin: 0 auto;">O conjunto de dados 'German Credit Data' será usado para construir e treinar o modelo, neste experimento. Este dataset é baseado em dados reais gerados por um pesquisador da Universidade de Hamburgo, na Alemanha.  
-</span>
-<span style="font-size: 16px; text-align: center; display: block; margin: 0 auto;">Para o treinamento do modelo, utilizamos três algoritmos: o **GLM (General Linear Model), Naive Bayes e Random Forest**. Previamente, empregamos técnicas de balanceamento de dados, como SMOTE e ROSE, com o intuito de aprimorar o desempenho do modelo diante de desequilíbrios na distribuição dos dados.  
-</span>
+<span style="font-size: 16px;">Este projeto tem como objetivo desenvolver um modelo preditivo destinado a classificar o risco de concessão de crédito para os clientes de uma instituição bancária. O objetivo principal é aprimorar a tomada de decisões relacionadas à concessão de crédito por meio da implementação de um modelo que avalie de forma precisa e eficiente o risco associado a cada cliente.    
+<span style="font-size: 16px;">O conjunto de dados 'German Credit Data' será usado para construir e treinar o modelo, neste experimento. Este dataset é baseado em dados reais gerados por um pesquisador da Universidade de Hamburgo, na Alemanha.  
+<span style="font-size: 16px;">Para o treinamento do modelo, utilizamos três algoritmos: o **GLM (General Linear Model), Naive Bayes e Random Forest**. Previamente, empregamos técnicas de balanceamento de dados, como SMOTE e ROSE, com o intuito de aprimorar o desempenho do modelo diante de desequilíbrios na distribuição dos dados.  
 <span style="font-size: 16px;">[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/leticiadluz/mini_projetos_ML_R/blob/main/Classificacao_avaliacao_risco_credito_R.ipynb)
 
 <span style="font-size: 16px;">O dataset original pode ser acessado clicando [aqui](https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data) 
