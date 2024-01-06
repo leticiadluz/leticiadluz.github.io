@@ -7,11 +7,27 @@ description:
   <a href="https://github.com/leticiadluz">GitHub</a>
   </p>
   
-  <p align="justify">
-  Farmacêutica graduada pela Universidade Federal do Paraná em transição de carreira para a área de Ciência de Dados. 
-  <br><br>
-  Atualmente cursando Ciência de Dados pela Data Science Academy e também pela Ada Tech por meio do programa Santander Coders.
-  <br><br>
-  </p>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        p {
+            font-size: 18px; /* Ajuste o valor conforme necessário */
+        }
+    </style>
+    <title>Seu Título</title>
+</head>
+<body>
+    <p align="justify">
+        Farmacêutica graduada pela Universidade Federal do Paraná em transição de carreira para a área de Ciência de Dados. 
+        <br><br>
+        Atualmente cursando Ciência de Dados pela Data Science Academy e também pela Ada Tech por meio do programa Santander Coders.
+        <br><br>
+    </p>
+</body>
+</html>
+
 
 theme: jekyll-theme-minimal
