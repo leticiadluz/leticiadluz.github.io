@@ -37,14 +37,14 @@
 <span style="font-size: 14px;">Abaixo apresenta-se o Gráfico de Resíduos versus Valores Ajustados, auxiliando na verificação da suposição de homocedasticidade, juntamente com um histograma para avaliação da normalidade dos resíduos:
 <img src="fotos_modelos/residuos.jpg"/>
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
 ---
 
+## Mini projetos
+
+- [Mini projeto 1 - Resumo Estatístico em R]([http://example.com/](https://github.com/leticiadluz/estatistica_com_R/blob/main/Resumo_Estatistica_R_Jupyter.ipynb))
+- [Mini projeto 2 - Testes de Hipóteses em R]([http://example.com/](https://github.com/leticiadluz/estatistica_com_R/blob/main/Teste_Hipotese.ipynb))
+- [Mini proejeto 3 - Análise de Variância (ANOVA)]([http://example.com/](https://github.com/leticiadluz/estatistica_com_R/blob/main/Anova_R.ipynb))
+- [Mini projeto 4 - AED em Dados Categóricos e Teste Qui-Quadrado]([http://example.com/](https://github.com/leticiadluz/AED_categoricos-qui_quadrado_R/blob/main/AED_Categoricos.ipynb))
 
 
 
