@@ -43,8 +43,8 @@
 
 - [Mini projeto 1 - Resumo Estatístico em R](https://github.com/leticiadluz/estatistica_com_R/blob/main/Resumo_Estatistica_R_Jupyter.ipynb)
 - [Mini projeto 2 - Testes de Hipóteses em R](https://github.com/leticiadluz/estatistica_com_R/blob/main/Teste_Hipotese.ipynb)
-- [Mini proejeto 3 - Análise de Variância (ANOVA)](https://github.com/leticiadluz/estatistica_com_R/blob/main/Anova_R.ipynb)
-- [Mini projeto 4 - AED em Dados Categóricos e Teste Qui-Quadrado](https://github.com/leticiadluz/AED_categoricos-qui_quadrado_R/blob/main/AED_Categoricos.ipynb)
+- [Mini proejeto 3 - Análise de Variância (ANOVA) em R ](https://github.com/leticiadluz/estatistica_com_R/blob/main/Anova_R.ipynb)
+- [Mini projeto 4 - AED em Dados Categóricos e Teste Qui-Quadrado em R](https://github.com/leticiadluz/AED_categoricos-qui_quadrado_R/blob/main/AED_Categoricos.ipynb)
 
 
 
