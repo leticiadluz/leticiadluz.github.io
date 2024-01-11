@@ -15,7 +15,7 @@
 
 <span style="font-size: 14px;">[![View on GitHub](https://github.com/leticiadluz/mini_projetos_ML_R/blob/main/Prevendo_status_extincao_chamas_ondas_sonoras_ML.ipynb)
 
-Para ilustrar a sensibilidade e especificidade do modelo, apresentamos abaixo uma imagem da curva ROC.
+Para ilustrar a sensibilidade e especificidade do modelo, apresentamos abaixo a imagem da curva ROC.
 <img src="fotos_modelos/curva_roc_modelo_extincao.jpg"/>
 
 
