@@ -9,7 +9,7 @@
 
 <span style="font-size: 14px;">Os incêndios, provenientes de diversas causas, são considerados desastres naturais, e a busca por abordagens mais ecológicas e inovadoras para seu controle tem sido uma prioridade. No âmbito dessa pesquisa, um sistema de extinção de incêndios baseado em ondas sonoras foi concebido e está passando por testes para avaliar sua eficácia no combate aos incêndios. 
 
-<span style="font-size: 14px;">Assim, utilizando dados reais disponíveis publicamente iremos desenolver um modelo em Machine Learning, nosso objetivo é desenvolver um modelo de Machine Learning capaz de prever a eficácia de um sistema de extinção de incêndios por ondas sonoras. Para alcançar esse objetivo, utilizamos quatro algoritmos: **o GLM (General Linear Model), Naive Bayes, Random Forest e Árvores de Decisão C50, incluindo uma versão com função de custo**. Notavelmente, as Árvores de Decisão C50 se destacaram, apresentando um desempenho superior, com uma acurácia superior a 0.98. 
+<span style="font-size: 14px;">Assim, utilizando dados reais disponíveis publicamente iremos desenolver um modelo em Machine Learning, nosso objetivo é desenvolver um modelo capaz de prever a eficácia de um sistema de extinção de incêndios por ondas sonoras. Para alcançar esse objetivo, utilizamos quatro algoritmos: **o GLM (General Linear Model), Naive Bayes, Random Forest e Árvores de Decisão C50, incluindo uma versão com função de custo**. Notavelmente, as Árvores de Decisão C50 se destacaram, apresentando um desempenho superior, com uma acurácia superior a 0.98. 
 
 <span style="font-size: 14px;">O dataset original pode ser acessado clicando [aqui](https://www.muratkoklu.com/datasets/vtdhnd07.php) 
 
