@@ -13,7 +13,7 @@
 
 <span style="font-size: 14px;">O dataset original pode ser acessado clicando [aqui](https://www.muratkoklu.com/datasets/vtdhnd07.php) 
 
-<span style="font-size: 14px;">[![View on GitHub](https://github.com/leticiadluz/mini_projetos_ML_R/blob/main/Prevendo_status_extincao_chamas_ondas_sonoras_ML.ipynb)
+<span style="font-size: 14px;">[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/leticiadluz/mini_projetos_ML_R/blob/main/Prevendo_status_extincao_chamas_ondas_sonoras_ML.ipynb)
 
 Para ilustrar a sensibilidade e especificidade do modelo, apresentamos abaixo a imagem da curva ROC.
 <img src="fotos_modelos/curva_roc_modelo_extincao.jpg"/>
