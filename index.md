@@ -4,6 +4,21 @@
 
 ## Classificação
 
+### Prevendo o Status de Extinção de Chamas de Combustível por Ondas Sonoras em R
+<span style="font-size: 14px;"> Este projeto tem como objetivo principal criar um modelo de Machine Learning capaz de prever se uma chama será extinta ao empregar um sistema de extinção por ondas sonoras, com base em simulações computacionais. 
+
+<span style="font-size: 14px;">Os incêndios, provenientes de diversas causas, são considerados desastres naturais, e a busca por abordagens mais ecológicas e inovadoras para seu controle tem sido uma prioridade. No âmbito dessa pesquisa, um sistema de extinção de incêndios baseado em ondas sonoras foi concebido e está passando por testes para avaliar sua eficácia no combate aos incêndios. 
+
+<span style="font-size: 14px;">Assim, utilizando dados reais disponíveis publicamente iremos desenolver um modelo em Machine Learning, nosso objetivo é desenvolver um modelo de Machine Learning capaz de prever a eficácia de um sistema de extinção de incêndios por ondas sonoras. Para alcançar esse objetivo, utilizamos quatro algoritmos: **o GLM (General Linear Model), Naive Bayes, Random Forest e Árvores de Decisão C50, incluindo uma versão com função de custo**. Notavelmente, as Árvores de Decisão C50 se destacaram, apresentando um desempenho superior, com uma acurácia superior a 0.98. 
+
+<span style="font-size: 14px;">O dataset original pode ser acessado clicando [aqui](https://www.muratkoklu.com/datasets/vtdhnd07.php) 
+
+<span style="font-size: 14px;">[![View on GitHub](https://github.com/leticiadluz/mini_projetos_ML_R/blob/main/Prevendo_status_extincao_chamas_ondas_sonoras_ML.ipynb)
+
+Para ilustrar a sensibilidade e especificidade do modelo, apresentamos abaixo uma imagem da curva ROC.
+<img src="fotos_modelos/curva_roc_modelo_extincao.jpg"/>
+
+
 ### Avaliação de Risco de Crédito em linguagem R
 <span style="font-size: 14px;">Este projeto tem como objetivo desenvolver um modelo preditivo destinado a classificar o risco de concessão de crédito para os clientes de uma instituição bancária. O objetivo principal é aprimorar a tomada de decisões relacionadas à concessão de crédito por meio da implementação de um modelo que avalie de forma precisa e eficiente o risco associado a cada cliente. 
 
