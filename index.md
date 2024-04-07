@@ -49,6 +49,7 @@ Para ilustrar a sensibilidade e especificidade do modelo, apresentamos abaixo a 
 - [Mini projeto 3 - Análise de Variância (ANOVA) em R ](https://github.com/leticiadluz/estatistica_com_R/blob/main/Anova_R.ipynb)
 - [Mini projeto 4 - AED em Dados Categóricos e Qui-Quadrado em R](https://github.com/leticiadluz/AED_categoricos-qui_quadrado_R/blob/main/AED_Categoricos.ipynb)
 - [Mini projeto 5 - Análise Exploratória de Dados utilizando SQL e Python](https://github.com/leticiadluz/projetos_ADA/blob/main/banco_dados/Projeto_banco_dados.ipynb)
+- [Mini projeto 6 - Construção de um algoritmo baseado em k-Nearest Neighbors (k-NN) em Python](https://github.com/leticiadluz/projetos_ADA/blob/main/logica_programacao_II/KNN_projeto_carteira_investimentos.ipynb)
 
 
 
