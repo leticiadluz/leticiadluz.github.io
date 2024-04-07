@@ -48,6 +48,7 @@ Para ilustrar a sensibilidade e especificidade do modelo, apresentamos abaixo a 
 - [Mini projeto 2 - Testes de Hipóteses em R](https://github.com/leticiadluz/estatistica_com_R/blob/main/Teste_Hipotese.ipynb)
 - [Mini projeto 3 - Análise de Variância (ANOVA) em R ](https://github.com/leticiadluz/estatistica_com_R/blob/main/Anova_R.ipynb)
 - [Mini projeto 4 - AED em Dados Categóricos e Teste Qui-Quadrado em R](https://github.com/leticiadluz/AED_categoricos-qui_quadrado_R/blob/main/AED_Categoricos.ipynb)
+- [Mini projeto 5 - Análise Exploratória de Dados utilizando SQL e Python](https://github.com/leticiadluz/projetos_ADA/blob/main/banco_dados/Projeto_banco_dados.ipynb)
 
 
 
