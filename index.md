@@ -15,9 +15,7 @@ Ferramentas:
 ---
 ## Projetos
 
-## Classificação
-
-###  em R
+### Classificação  em R
 <span style="font-size: 14px;"> Este projeto tem como objetivo principal criar um modelo de Machine Learning 
 
 <span style="font-size: 14px;">Descrição. 
@@ -32,13 +30,11 @@ Para ilustrar a sensibilidade e especificidade do modelo, apresentamos abaixo a 
 <imagem/>
 
 
-###  em R
+### Classificação em Python 
 
 ---
 
-## Regressão
-
-### em linguagem R
+### Regressão em linguagem R
 
 <span style="font-size: 14px;"> O projeto . 
 
