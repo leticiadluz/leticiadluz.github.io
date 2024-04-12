@@ -63,6 +63,10 @@ Para ilustrar a sensibilidade e especificidade do modelo, apresentamos abaixo a 
 
 ---
 Entre em contato comigo por meio de:
+- [<i class="fab fa-linkedin"></i> LinkedIn](https://www.linkedin.com/in/leticiadluz/)
+- [<i class="fab fa-github"></i> Github](https://github.com/leticiadluz)
+- [<i class="fas fa-envelope"></i> Email](mailto:leticiadluz@gmail.com)
+
 
 © 2024 Leticia da Luz. 
 
