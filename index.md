@@ -57,10 +57,11 @@ Para ilustrar a sensibilidade e especificidade do modelo, apresentamos abaixo a 
 - [Mini projeto 2 - Variáveis discretas e suas distribuições em R](https://github.com/leticiadluz/estatistica_com_r_py/blob/main/variaveis_aleatorias_discretas_distribuicoes_R.ipynb)
 - [Mini projeto 3 - Variáveis contínuas e suas distribuições em R]()
 - [Mini projeto 4 - Estatística Descritiva em R]()
-- [Mini projeto 5 - Testes de Hipóteses em R]()
-- [Mini projeto 6 - Teste de Qui-quadrado em R](https://github.com/leticiadluz/AED_categoricos-qui_quadrado_R/blob/main/AED_Categoricos.ipynb)
-- [Mini projeto 7 - Análise Exploratória de Dados utilizando SQL e Python](https://github.com/leticiadluz/projetos_ADA/blob/main/banco_dados/Projeto_banco_dados.ipynb)
-- [Mini projeto 8 - Construção de um algoritmo baseado em k-NN em Python](https://github.com/leticiadluz/projetos_ADA/blob/main/logica_programacao_II/KNN_projeto_carteira_investimentos.ipynb)
+- [Mini projeto 5 - Testes Paramétricos em R]()
+- [Mini projeto 6 - Testes Não Paramétricas em R]()
+- [Mini projeto 7 - Teste de Qui-quadrado em R](https://github.com/leticiadluz/AED_categoricos-qui_quadrado_R/blob/main/AED_Categoricos.ipynb)
+- [Mini projeto 8 - Análise Exploratória de Dados utilizando SQL e Python](https://github.com/leticiadluz/projetos_ADA/blob/main/banco_dados/Projeto_banco_dados.ipynb)
+- [Mini projeto 9 - Construção de um algoritmo baseado em k-NN em Python](https://github.com/leticiadluz/projetos_ADA/blob/main/logica_programacao_II/KNN_projeto_carteira_investimentos.ipynb)
 
 
 ---
