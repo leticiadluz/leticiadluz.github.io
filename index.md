@@ -1,6 +1,20 @@
 # Portfólio
 
 ---
+## Sobre mim
+Sou farmacêutica formada pela Universidade Federal do Paraná e tenho experiência em diversos setores da área de saúde. Durante minha trajetória profissional, observei que muitas empresas ainda possuem dificuldades para tomar decisões estratégicas baseadas em dados. Meu propósito é auxiliar essas empresas a superarem essas dificuldades, fornecendo soluções baseadas em dados e transformar essas informações em ideias que impulsionem o crescimento e a inovação.
+
+Linguagens de Programação:
+- R: readr, dplyr, caret, randomforest, ggplot2, xgboost e catboost.
+- Python: pandas, scikit-learn, matplotlib e seaborn.
+- SQL: DQL (Data Query Language).
+
+Ferramentas:
+- Microsoft Azure Machine Learning
+
+Atualmente estou estudando Ciência de Dados na Data Science Academy e recentemente fui umas das selecionadas entre 10 mil inscritos para a trilha Data Science do Santander Coders, uma parceria entre Ada Tech e o Banco Santander.
+---
+## Projetos
 
 ## Classificação
 
@@ -52,6 +66,8 @@ Para ilustrar a sensibilidade e especificidade do modelo, apresentamos abaixo a 
 - [Mini projeto 6 - Construção de um algoritmo baseado em k-NN em Python](https://github.com/leticiadluz/projetos_ADA/blob/main/logica_programacao_II/KNN_projeto_carteira_investimentos.ipynb)
 
 
-
 ---
-© 2024 Leticia da Luz. Desenvolvido por Jekyll e the Minimal Theme.
+Entre em contato comigo por meio de:
+
+© 2024 Leticia da Luz. 
+
