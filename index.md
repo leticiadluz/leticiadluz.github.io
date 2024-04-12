@@ -59,7 +59,7 @@ Para ilustrar a sensibilidade e especificidade do modelo, apresentamos abaixo a 
 - [Mini projeto 4 - Estatística Descritiva em R]()
 - [Mini projeto 5 - Testes Paramétricos em R]()
 - [Mini projeto 6 - Testes Não Paramétricas em R]()
-- [Mini projeto 7 - Teste de Qui-quadrado em R](https://github.com/leticiadluz/AED_categoricos-qui_quadrado_R/blob/main/AED_Categoricos.ipynb)
+- [Mini projeto 7 - Teste de Qui-quadrado em R](https://github.com/leticiadluz/estatistica_com_r_py/blob/main/teste_qui_quadrado_R.ipynb)
 - [Mini projeto 8 - Análise Exploratória de Dados utilizando SQL e Python](https://github.com/leticiadluz/projetos_ADA/blob/main/banco_dados/Projeto_banco_dados.ipynb)
 - [Mini projeto 9 - Construção de um algoritmo baseado em k-NN em Python](https://github.com/leticiadluz/projetos_ADA/blob/main/logica_programacao_II/KNN_projeto_carteira_investimentos.ipynb)
 
