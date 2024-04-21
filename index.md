@@ -13,7 +13,7 @@ Ferramentas:
 - Microsoft Azure Machine Learning
   
 ---
-## Projetos
+## Projetos(em construção)
 
 ### Classificação  em R
 <span style="font-size: 14px;"> Este projeto tem como objetivo principal criar um modelo de Machine Learning 
@@ -56,7 +56,7 @@ Para ilustrar a sensibilidade e especificidade do modelo, apresentamos abaixo a 
 - [Mini projeto 1 - Análise combinatória e Probabilidades em Python](https://github.com/leticiadluz/estatistica_com_r_py/blob/main/analise_combinatoria_probabilidade_python.ipynb)
 - [Mini projeto 2 - Variáveis discretas e suas distribuições em R](https://github.com/leticiadluz/estatistica_com_r_py/blob/main/variaveis_aleatorias_discretas_distribuicoes_R.ipynb)
 - [Mini projeto 3 - Variáveis contínuas e suas distribuições em R]()
-- [Mini projeto 4 - Estatística Descritiva em R]()
+- [Mini projeto 4 - Estatística Descritiva em R](https://github.com/leticiadluz/estatistica_com_r_py/blob/main/estatistica_descritiva_R.ipynb)
 - [Mini projeto 5 - Testes Paramétricos em R]()
 - [Mini projeto 6 - Testes Não Paramétricas em R]()
 - [Mini projeto 7 - Teste de Qui-quadrado em R](https://github.com/leticiadluz/estatistica_com_r_py/blob/main/teste_qui_quadrado_R.ipynb)
