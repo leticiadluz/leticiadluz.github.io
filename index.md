@@ -30,6 +30,8 @@ Ferramentas:
   - Google Colab
   - Python
 
+Para acessar o projeto basta clicar em: [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/leticiadluz/ml_internet_provider_churn)
+
 ---
 
 ### Regressão em linguagem R
