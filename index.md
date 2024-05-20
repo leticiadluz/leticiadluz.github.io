@@ -2,7 +2,7 @@
 
 ---
 ## Sobre mim
-Sou farmacêutica formada pela Universidade Federal do Paraná e tenho experiência em diversos setores da área de saúde. Durante minha trajetória profissional, observei que muitas empresas ainda possuem dificuldades para tomar decisões estratégicas baseadas em dados. Meu propósito é auxiliar essas empresas a superarem essas dificuldades, fornecendo soluções baseadas em dados e transformar essas informações em ideias que impulsionem o crescimento e a inovação. Atualmente estou estudando Ciência de Dados na Data Science Academy e recentemente fui umas das selecionadas entre 10 mil inscritos para a trilha Data Science do Santander Coders, uma parceria entre Ada Tech e o Banco Santander.
+Sou farmacêutica formada pela Universidade Federal do Paraná e tenho experiência em diversos setores da área de saúde. Durante minha trajetória profissional, observei que muitas empresas ainda possuem dificuldades para tomar decisões estratégicas baseadas em dados. Meu propósito é auxiliar essas empresas a superarem essas dificuldades, fornecendo soluções baseadas em dados e transformar essas informações em ideias que impulsionem o crescimento e a inovação. Atualmente estou estudando Ciência de Dados na Data Science Academy e recentemente fui umas das selecionadas para a trilha Data Science do Santander Coders, uma parceria entre Ada Tech e o Banco Santander.
 
 Linguagens de Programação:
 - R: readr, dplyr, caret, randomforest, ggplot2, xgboost e catboost.
@@ -13,24 +13,18 @@ Ferramentas:
 - Microsoft Azure Machine Learning
   
 ---
-## Projetos(em construção)
+## Projetos
 
-### Classificação  em R
-<span style="font-size: 14px;"> Este projeto tem como objetivo principal criar um modelo de Machine Learning 
+### Previsão de Cancelamento de Serviço de Internet e Segmentação de Clientes
+**Contexto:** Com a crescente competição entre os provedores de internet, manter os clientes existentes tornou-se uma prioridade vital para aumentar a receita. Diante desse cenário, entender o fenômeno do churn, ou seja, a taxa de cancelamento de serviços, é crucial. Os provedores buscam identificar quais clientes apresentam maior probabilidade de cancelar seus serviços, pois isso lhes permite antecipar tais movimentos e implementar estratégias eficazes de retenção.
 
-<span style="font-size: 14px;">Descrição. 
+**Objetivos:** 
+- O primeiro objetivo é criar um modelo capaz de prever quando um cliente está prestes a cancelar seu serviço de internet.
+- O segundo objetivo é agrupar os clientes que cancelaram o serviço de internet usando técnicas de clusterização. Ao identificar grupos de clientes com características e comportamentos semelhantes, poderemos desenvolver estratégias de marketing específicas para reter esses cliente
 
-<span style="font-size: 14px;">Resultados. 
+**Resultados:**
+- 
 
-<span style="font-size: 14px;">O dataset original pode ser acessado clicando [aqui]() 
-
-<span style="font-size: 14px;">Para acessar o notebook: [![View on GitHub]()
-
-Para ilustrar a sensibilidade e especificidade do modelo, apresentamos abaixo a imagem da curva ROC.
-<imagem/>
-
-
-### Classificação em Python 
 
 ---
 
