@@ -14,7 +14,10 @@ Ferramentas:
   
 ---
 ## Projetos
-![image](https://github.com/leticiadluz/leticiadluz.github.io/assets/138510840/a9085d42-783a-43ee-9ba3-97a567c67662)
+
+![image](https://github.com/leticiadluz/leticiadluz.github.io/assets/138510840/5a3b7280-76f7-4f5b-a5fa-ab2607be7bc3)
+
+
 
 ### Previsão de Cancelamento de Serviço de Internet e Segmentação de Clientes
 **Contexto:** Com a crescente competição entre os provedores de internet, manter os clientes existentes tornou-se uma prioridade vital para aumentar a receita. Diante desse cenário, entender o fenômeno do churn, ou seja, a taxa de cancelamento de serviços, é crucial. Os provedores buscam identificar quais clientes apresentam maior probabilidade de cancelar seus serviços, pois isso lhes permite antecipar tais movimentos e implementar estratégias eficazes de retenção.
@@ -32,23 +35,6 @@ Ferramentas:
   - Python
 
 Para acessar o projeto basta clicar em: [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/leticiadluz/ml_internet_provider_churn)
-
----
-
-### Regressão em linguagem R
-
-<span style="font-size: 14px;"> O projeto . 
-
-<span style="font-size: 14px;">Na construção do modelo, . 
-
-<span style="font-size: 14px;">Já a avaliação de desempenho do modelo de regressão inclui a análise de métricas fundamentais, como o **Erro Quadrático Médio (MSE)**, a **Raiz do Erro Quadrático Médio (RMSE)** e o **Coeficiente de Determinação (R²)**. Além disso, são realizadas verificações adicionais, como a avaliação da **homocedasticidade** para assegurar a constância da variância dos resíduos ao longo dos valores preditos, assim como a verificação da **normalidade** dos resíduos.
-
-<span style="font-size: 14px;">Para acessar o notebook: [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/leticiadluz/mini_projetos_ML_R/blob/main/Consumo_carros_eletricos_ML.ipynb)
-
-<span style="font-size: 14px;">A base de dados [aqui]()
-
-<span style="font-size: 14px;">Abaixo apresenta-se 
-<imagem"/>
 
 ---
 
