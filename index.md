@@ -15,11 +15,11 @@ Ferramentas:
 ---
 ## Projetos
 
+### Previsão de Cancelamento de Serviço de Internet e Segmentação de Clientes
+
 ![image](https://github.com/leticiadluz/leticiadluz.github.io/assets/138510840/5a3b7280-76f7-4f5b-a5fa-ab2607be7bc3)
 
 
-
-### Previsão de Cancelamento de Serviço de Internet e Segmentação de Clientes
 **Contexto:** Com a crescente competição entre os provedores de internet, manter os clientes existentes tornou-se uma prioridade vital para aumentar a receita. Diante desse cenário, entender o fenômeno do churn, ou seja, a taxa de cancelamento de serviços, é crucial. Os provedores buscam identificar quais clientes apresentam maior probabilidade de cancelar seus serviços, pois isso lhes permite antecipar tais movimentos e implementar estratégias eficazes de retenção.
 
 **Objetivos:** 
