@@ -2,7 +2,8 @@
 
 ---
 ## Sobre mim
-Sou farmacêutica formada pela Universidade Federal do Paraná e tenho experiência em diversos setores da área de saúde. Durante minha trajetória profissional, observei que muitas empresas ainda possuem dificuldades para tomar decisões estratégicas baseadas em dados. Meu propósito é auxiliar essas empresas a superarem essas dificuldades, fornecendo soluções baseadas em dados e transformar essas informações em ideias que impulsionem o crescimento e a inovação. Atualmente estou estudando Ciência de Dados na Data Science Academy e recentemente fui umas das selecionadas para a trilha Data Science do Santander Coders, uma parceria entre Ada Tech e o Banco Santander.
+Me chamo Letícia da Luz, sou farmacêutica formada pela Universidade Federal do Paraná e tenho experiência em diversos setores da área de saúde, atualmente estou em transição de carreira para área de dados.
+Durante minha trajetória profissional, observei que muitas empresas ainda possuem dificuldades para tomar decisões estratégicas baseadas em dados. Meu propósito é auxiliar essas empresas a superarem essas dificuldades, fornecendo soluções baseadas em dados e transformar essas informações em ideias que impulsionem o crescimento e a inovação.
 
 Linguagens de Programação:
 - R: readr, dplyr, caret, randomforest, ggplot2, xgboost e catboost.
@@ -11,7 +12,9 @@ Linguagens de Programação:
 
 Ferramentas:
 - Microsoft Azure Machine Learning
-  
+
+Atualmente estou estudando Ciência de Dados na Data Science Academy e recentemente fui umas das selecionadas para a trilha Data Science do Santander Coders, uma parceria entre Ada Tech e o Banco Santander.
+
 ---
 ## Projetos
 
@@ -24,7 +27,7 @@ Ferramentas:
 
 **Objetivos:** 
 - O primeiro objetivo é criar um modelo capaz de prever quando um cliente está prestes a cancelar seu serviço de internet.
-- O segundo objetivo é agrupar os clientes que cancelaram o serviço de internet usando técnicas de clusterização. Ao identificar grupos de clientes com características e comportamentos semelhantes, poderemos desenvolver estratégias de marketing específicas para reter esses cliente
+- O segundo objetivo é agrupar os clientes que cancelaram o serviço de internet usando técnicas de clusterização. Ao identificar grupos de clientes com características e comportamentos semelhantes, conseguimos desenvolver estratégias de marketing específicas para reter esses clientes.
 
 **Resultados:**
 - Construímos seis modelos de Machine Learning utilizando três estimadores: KNN, SVC e XGBoost. Realizamos pré-processamento das variáveis e otimização de hiperparâmetros. A métrica escolhida foi o recall, visando minimizar falsos negativos e identificar o maior número de clientes em risco de churn. O modelo final, utilizando o estimador XGBoost, alcançou um recall de 0.94 nos dados de teste, indicando sua eficácia em identificar casos de churn. 
