@@ -36,7 +36,7 @@ Ferramentas:
   
 **Ferramentas Utilizadas:**
   - Google Colab
-  - Python
+  - Python  
 Para acessar o projeto basta clicar em:  [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/leticiadluz/ml_internet_provider_churn)
 --
 ### Ciência de Dados em Recursos Humanos
@@ -54,7 +54,7 @@ Para acessar o projeto basta clicar em:  [![View on GitHub](https://img.shields.
   
 **Ferramentas Utilizadas:**
   - Google Colab
-  - Python
+  - Python  
 Para acessar o projeto basta clicar em:  [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/leticiadluz/HR_datascience_insights)
 
 ---
