@@ -38,7 +38,7 @@ Ferramentas:
   - Google Colab
   - Python  
 Para acessar o projeto basta clicar em:  [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/leticiadluz/ml_internet_provider_churn)
---
+---
 ### Ciência de Dados em Recursos Humanos
 ![image](https://github.com/leticiadluz/leticiadluz.github.io/assets/138510840/d87a167e-8d6a-4699-9704-a364500a87be)
 
