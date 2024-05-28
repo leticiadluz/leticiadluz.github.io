@@ -4,9 +4,7 @@
 ## Sobre mim
   Me chamo Letícia da Luz. Atualmente, estou em formação em Ciência de Dados pela Data Science Academy e recentemente concluí o Bootcamp de Data Science do programa Santander Coders, uma parceria entre a Ada Tech e a Santander Open Academy.   
   Sou farmacêutica graduada pela Universidade Federal do Paraná e atuei em diversos setores da área da saúde. Meu interesse por dados surgiu durante minha experiência na área de epidemiologia, onde percebi o impacto significativo da análise de dados na tomada de decisões e na melhoria de processos.  
-  Possuo conhecimento em análise de dados, machine learning supervisionado e não supervisionado, estatística e programação em R, Python e SQL.  
   Meu objetivo é ajudar as empresas a superar desafios na tomada de decisões estratégicas, fornecendo soluções baseadas em dados e transformando essas informações em ideias que impulsionem o crescimento e a inovação.
-
 
 Linguagens de Programação:
 - R: readr, dplyr, caret, randomforest, ggplot2, xgboost e catboost.
@@ -39,7 +37,6 @@ Ferramentas:
 **Ferramentas Utilizadas:**
   - Google Colab
   - Python
-
 Para acessar o projeto basta clicar em:  [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/leticiadluz/ml_internet_provider_churn)
 --
 ### Ciência de Dados em Recursos Humanos
@@ -58,9 +55,9 @@ Para acessar o projeto basta clicar em:  [![View on GitHub](https://img.shields.
 **Ferramentas Utilizadas:**
   - Google Colab
   - Python
-
 Para acessar o projeto basta clicar em:  [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/leticiadluz/HR_datascience_insights)
---
+
+---
 ---
 
 ## Mini projetos
