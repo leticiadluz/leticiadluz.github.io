@@ -59,7 +59,6 @@ Para acessar o projeto basta clicar em:  [![View on GitHub](https://img.shields.
 Para acessar o projeto basta clicar em:  [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/leticiadluz/HR_datascience_insights)
 
 ---
----
 
 ## Mini projetos
 
@@ -75,6 +74,11 @@ Para acessar o projeto basta clicar em:  [![View on GitHub](https://img.shields.
 
 
 ---
+## Cerificados
+Para acessar os certificados, basta clicar [aqui](https://github.com/leticiadluz/Certificados/tree/main)
+
+---
+
 Entre em contato comigo por meio de:  
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/leticiadluz/) 
