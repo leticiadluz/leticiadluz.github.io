@@ -74,7 +74,7 @@ Para acessar o projeto basta clicar em:  [![View on GitHub](https://img.shields.
 
 
 ---
-## Cerificados
+## Certificados
 Para acessar os certificados, basta clicar [aqui](https://github.com/leticiadluz/Certificados/tree/main)
 
 ---
