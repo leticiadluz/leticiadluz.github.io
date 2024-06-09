@@ -33,7 +33,6 @@ Ferramentas:
 **Resultados:**
 - Construímos seis modelos de Machine Learning utilizando três estimadores: KNN, SVC e XGBoost. Realizamos pré-processamento das variáveis e otimização de hiperparâmetros. A métrica escolhida foi o recall, visando minimizar falsos negativos e identificar o maior número de clientes em risco de churn. O modelo final, utilizando o estimador XGBoost, alcançou um recall de 0.94 nos dados de teste, indicando sua eficácia em identificar casos de churn. 
 - Realizamos também uma análise de clusterização com os clientes que cancelaram o serviço, usando os algoritmos K-Means e DBSCAN. Embora ambos tenham produzido scores semelhantes, optamos pelo K-Means devido à sua eficiência computacional e capacidade de identificar uma segmentação mais detalhada dos dados, otimizando a diferenciação entre perfis de clientes.
-- Este projeto me rendeu o 1º lugar entre mais de 500 inscritos no desafio.
   
 **Ferramentas Utilizadas:**
   - Google Colab
@@ -53,6 +52,7 @@ Para acessar o projeto basta clicar em:  [![View on GitHub](https://img.shields.
 - Na Análise Exploratória dos Dados, identificamos que as variáveis 'Pontuação de Desempenho' e 'Horas Extras' mostram uma relação significativa com a taxa de desligamento. Funcionários com pontuações de desempenho mais altas e aqueles que realizam mais horas extras têm uma maior probabilidade de se desligarem da empresa.
 - Construímos modelos de Machine Learning, a métrica escolhida para otimização foi o recall. Ao final, utilizamos uma abordagem de ensemble que combina as forças de dois algoritmos de ML para melhorar o desempenho da classificação através de um VotingClassifier. O resultado final foi um recall de 0.62 nos dados de teste, indicando um desempenho razoável na identificação de funcionários propensos a sair.
 - Realizamos uma análise de clusterização dos funcionários desligados utilizando o algoritmo K-Means, a análise de clusterização dos funcionários desligados revelou que o Cluster 1 é composto por funcionários de nível sênior que fazem mais horas extras e recebem um salário maior. Os padrões encontrados neste projeto podem ajudar a empresa a desenvolver estratégias específicas para diminuir o turnover.
+- Este projeto me rendeu o 1º lugar entre mais de 500 inscritos no desafio.
   
 **Ferramentas Utilizadas:**
   - Google Colab
