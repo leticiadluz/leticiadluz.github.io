@@ -36,6 +36,7 @@ Ferramentas:
 
 **Ferramentas Utilizadas:**
   - Python
+  - Jupyter Notebook
     
 Para acessar o projeto basta clicar [aqui](https://leticiadluz.github.io/ml_introduction/resumo_ml.pdf).
 
