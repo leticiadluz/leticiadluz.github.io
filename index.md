@@ -36,7 +36,7 @@ Ferramentas:
 
   **Ferramentas Utilizadas:**
   - Python  
-Para acessar o projeto basta clicar em:  [![View on GitHub](https://leticiadluz.github.io/ml_introduction/resumo_ml.pdf)
+Para acessar o projeto basta clicar em:   [![View on GitHub](https://leticiadluz.github.io/ml_introduction/resumo_ml.pdf)
 
 
 ### Previsão de Cancelamento de Serviço de Internet e Segmentação de Clientes
