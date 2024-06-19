@@ -28,9 +28,9 @@ Ferramentas:
 - Técnicas de Encoding: Comparação entre One-Hot, Target e CatBoost Encoder, explicando a premissa por trás de cada um e o motivo pelo qual devemos evitar One-Hot Encoding em árvores de decisão.
 - Métodos de Scaling: Análise das características de diferentes técnicas scaling.
 - Tunagem de Hiperparâmetros: Estratégias para otimizar os parâmetros dos modelos para melhorar o desempenho.
-- Métodos de Validação: Técnicas como validação cruzada para avaliar a performance do modelo de forma robusta.
+- Métodos de Validação: Técnicas como holdout e validação cruzada para avaliar a performance do modelo de forma robusta.
 - Seleção de Variáveis: Utilização de métodos wrapper, incorporados e de filtro para identificar as features mais relevantes.
-- Dados Desbalanceados: Abordagens para lidar com datasets desbalanceados, incluindo a nova funcionalidade do scikit-learn 1.5 (TunedThresholdClassifierCV), que ajuda a ajustar os limiares de decisão de forma mais adequada.
+- Dados Desbalanceados: Abordagens para lidar com datasets desbalanceados como o ajuste estratégico dos pesos de classe e a nova funcionalidade do scikit-learn 1.5 (TunedThresholdClassifierCV), que ajuda a ajustar os limiares de decisão de forma mais adequada.
 - Pipelines: Exemplos completos de pipelines para automatizar o processo de pré-processamento e modelagem, tornando o código mais reutilizável e organizado.
 - Também explorei a decomposição de viés e variância tanto para regressão quanto para classificação, aprofundando-me além da simples premissa de underfitting, overfitting e complexidade de modelos, proporcionando uma compreensão mais sólida sobre esses conceitos.
 
