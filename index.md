@@ -19,6 +19,26 @@ Ferramentas:
 ---
 ## Projetos
 
+### Processamento de Dados em Machine Learning: Técnicas e Melhores Práticas
+![image](https://github.com/leticiadluz/leticiadluz.github.io/assets/138510840/d9be65b3-1de2-4763-8def-d55f63766ab5)
+
+**Objetivos:** Neste projeto, busquei abordar uma das dúvidas mais comuns no estudo de Machine Learning: o processamento de dados. Meu objetivo foi identificar e aplicar as melhores práticas, evitando armadilhas comuns e tornando o código mais reutilizável. Para isso, elaborei um resumo abrangente que explora os seguintes tópicos essenciais:
+- Ordem de Pré-Processamento: Técnicas para evitar vazamento de dados, garantindo a integridade do modelo.
+- Tratamento de Valores Ausentes e Outliers: Métodos eficazes para lidar com dados faltantes e valores discrepantes.
+- Técnicas de Encoding: Comparação entre One-Hot, Target e CatBoost Encoder, explicando a premissa por trás de cada um e o motivo pelo qual devemos evitar One-Hot Encoding em árvores de decisão.
+- Métodos de Scaling: Análise das características de diferentes técnicas scaling.
+- Tunagem de Hiperparâmetros: Estratégias para otimizar os parâmetros dos modelos para melhorar o desempenho.
+- Métodos de Validação: Técnicas como validação cruzada para avaliar a performance do modelo de forma robusta.
+- Seleção de Variáveis: Utilização de métodos wrapper, incorporados e de filtro para identificar as features mais relevantes.
+- Dados Desbalanceados: Abordagens para lidar com datasets desbalanceados, incluindo a nova funcionalidade do scikit-learn 1.5 (TunedThresholdClassifierCV), que ajuda a ajustar os limiares de decisão de forma mais adequada.
+- Pipelines: Exemplos completos de pipelines para automatizar o processo de pré-processamento e modelagem, tornando o código mais reutilizável e organizado.
+- Também explorei a decomposição de viés e variância tanto para regressão quanto para classificação, aprofundando-me além da simples premissa de underfitting, overfitting e complexidade de modelos, proporcionando uma compreensão mais sólida sobre esses conceitos.
+
+  **Ferramentas Utilizadas:**
+  - Python  
+Para acessar o projeto basta clicar em:  [![View on GitHub](https://leticiadluz.github.io/ml_introduction/resumo_ml.pdf)
+
+
 ### Previsão de Cancelamento de Serviço de Internet e Segmentação de Clientes
 
 ![image](https://github.com/leticiadluz/leticiadluz.github.io/assets/138510840/5a3b7280-76f7-4f5b-a5fa-ab2607be7bc3)
