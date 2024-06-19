@@ -34,8 +34,9 @@ Ferramentas:
 - Pipelines: Exemplos completos de pipelines para automatizar o processo de pré-processamento e modelagem, tornando o código mais reutilizável e organizado.
 - Também explorei a decomposição de viés e variância tanto para regressão quanto para classificação, aprofundando-me além da simples premissa de underfitting, overfitting e complexidade de modelos, proporcionando uma compreensão mais sólida sobre esses conceitos.
 
-  **Ferramentas Utilizadas:**
-  - Python  
+**Ferramentas Utilizadas:**
+  - Python
+    
 Para acessar o projeto basta clicar [aqui](https://leticiadluz.github.io/ml_introduction/resumo_ml.pdf).
 
 
