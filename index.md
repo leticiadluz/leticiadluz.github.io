@@ -15,6 +15,7 @@ Ferramentas:
 - Microsoft Azure Machine Learning
 - Power BI
 - Excel
+---
 
 [Projetos Machine Learning](#projetosml)    
 [Projetos SQL](#projetos)  
