@@ -15,12 +15,14 @@ Ferramentas:
 - Microsoft Azure Machine Learning
 - Power BI
 - Excel
+  
 ---
 
 [Projetos Machine Learning](#projetosml)    
 [Projetos SQL](#projetos)  
 [Projetos Power BI](#projetos)  
-[Projetos Excel](#projetos)  
+[Projetos Excel](#projetos)
+[Projetos Estatística](#projetos-estatistica) 
 
 ## Projetos em Machine Learning <a name="projetosml"></a>
 
@@ -88,7 +90,7 @@ Para acessar o projeto basta clicar em:  [![View on GitHub](https://img.shields.
 
 ---
 
-## Mini projetos
+## Projetos em Estatística <a name="projetos-estatistica"></a>
 
 - [Mini projeto 1 - Análise combinatória e Probabilidades em Python](https://github.com/leticiadluz/estatistica_com_r_py/blob/main/analise_combinatoria_probabilidade_python.ipynb)
 - [Mini projeto 2 - Variáveis discretas e suas distribuições em R](https://github.com/leticiadluz/estatistica_com_r_py/blob/main/variaveis_aleatorias_discretas_distribuicoes_R.ipynb)
