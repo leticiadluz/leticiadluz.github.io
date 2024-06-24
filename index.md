@@ -13,7 +13,6 @@ Linguagens de Programação:
 
 Ferramentas:
 - Microsoft Azure Machine Learning
-- PostgreSQL
 - Power BI
 - Excel
 
