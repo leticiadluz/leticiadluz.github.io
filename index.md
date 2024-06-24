@@ -14,15 +14,15 @@ Linguagens de Programação:
 Ferramentas:
 - Microsoft Azure Machine Learning
 - Power BI
-- Excel
+- Excel  
   
----
-
 [Projetos Machine Learning](#projetosml)    
 [Projetos SQL](#projetos)  
 [Projetos Power BI](#projetos)  
 [Projetos Excel](#projetos)    
-[Projetos Estatística](#projetos-estatistica)     
+[Projetos Estatística](#projetos-estatistica)  
+
+---
 
 ## Projetos em Machine Learning <a name="projetosml"></a>
 
