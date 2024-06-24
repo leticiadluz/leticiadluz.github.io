@@ -9,15 +9,20 @@
 Linguagens de Programação:
 - R: readr, dplyr, caret, randomforest, ggplot2, xgboost e catboost.
 - Python: pandas, scikit-learn, matplotlib e seaborn.
-- SQL: DQL (Data Query Language).
+- SQL
 
 Ferramentas:
 - Microsoft Azure Machine Learning
 - PostgreSQL
+- Power BI
+- Excel
 
-
+[Projetos Machine Learning](#projetosml)
+[Projetos SQL](#projetos)
+[Projetos Power BI](#projetos)
+[Projetos Excel](#projetos)
 ---
-## Projetos
+## Projetos em Machine Learning <a name="projetosml"></a>
 
 ### Processamento de Dados em Machine Learning: Técnicas e Melhores Práticas
 ![image](https://github.com/leticiadluz/leticiadluz.github.io/assets/138510840/d9be65b3-1de2-4763-8def-d55f63766ab5)
