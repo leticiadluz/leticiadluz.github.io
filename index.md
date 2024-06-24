@@ -21,7 +21,7 @@ Ferramentas:
 [Projetos SQL](#projetos)  
 [Projetos Power BI](#projetos)  
 [Projetos Excel](#projetos)  
----
+
 ## Projetos em Machine Learning <a name="projetosml"></a>
 
 ### Processamento de Dados em Machine Learning: Técnicas e Melhores Práticas
