@@ -17,10 +17,10 @@ Ferramentas:
 - Power BI
 - Excel
 
-[Projetos Machine Learning](#projetosml)
-[Projetos SQL](#projetos)
-[Projetos Power BI](#projetos)
-[Projetos Excel](#projetos)
+[Projetos Machine Learning](#projetosml)    
+[Projetos SQL](#projetos)  
+[Projetos Power BI](#projetos)  
+[Projetos Excel](#projetos)  
 ---
 ## Projetos em Machine Learning <a name="projetosml"></a>
 
