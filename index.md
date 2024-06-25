@@ -90,7 +90,7 @@ Para acessar o projeto basta clicar em:  [![View on GitHub](https://img.shields.
 
 ---
 
-## Projetos em Estatística <a name="projetos-estatistica"></a>
+## Projetos de Estatística <a name="projetos-estatistica"></a>
 
 - [Mini projeto 1 - Análise combinatória e Probabilidades em Python](https://github.com/leticiadluz/estatistica_com_r_py/blob/main/analise_combinatoria_probabilidade_python.ipynb)
 - [Mini projeto 2 - Variáveis discretas e suas distribuições em R](https://github.com/leticiadluz/estatistica_com_r_py/blob/main/variaveis_aleatorias_discretas_distribuicoes_R.ipynb)
