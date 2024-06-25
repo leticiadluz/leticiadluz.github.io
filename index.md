@@ -24,7 +24,7 @@ Ferramentas:
 
 ---
 
-## Projetos em Machine Learning <a name="projetosml"></a>
+## Projetos de Machine Learning <a name="projetosml"></a>
 
 ### Processamento de Dados em Machine Learning: Técnicas e Melhores Práticas
 ![image](https://github.com/leticiadluz/leticiadluz.github.io/assets/138510840/d9be65b3-1de2-4763-8def-d55f63766ab5)
