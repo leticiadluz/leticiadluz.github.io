@@ -67,7 +67,7 @@ Para acessar o projeto basta clicar [aqui](https://leticiadluz.github.io/ml_intr
 - R
 - AWS
 
-Para acessar o projeto basta clicar em:  [![View on GitHub](https://github.com/leticiadluz/ml_lung_cancer_deploy)
+Para acessar o projeto basta clicar em: Para acessar o projeto basta clicar em:  [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]([https://github.com/leticiadluz/ml_internet_provider_churn](https://github.com/leticiadluz/ml_lung_cancer_deploy))
   
 ### Previsão de Cancelamento de Serviço de Internet e Segmentação de Clientes
 
