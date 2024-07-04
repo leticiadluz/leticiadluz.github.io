@@ -47,7 +47,28 @@ Ferramentas:
     
 Para acessar o projeto basta clicar [aqui](https://leticiadluz.github.io/ml_introduction/resumo_ml.pdf).
 
+### Previsão de Câncer de Pulmão com R e Deploy na AWS ECS
+![image](https://github.com/leticiadluz/leticiadluz.github.io/assets/138510840/acd2c7fe-6e3e-4fb1-be36-9d4355a93501)
 
+**Contexto:** Este projeto visa prever o risco de câncer de pulmão utilizando machine learning com Tidymodels em R. O modelo ajuda a compreender o risco de desenvolver câncer de pulmão baseado em diversos fatores, auxiliando na tomada de decisões na área da saúde. Os dados foram coletados do Kaggle.  
+
+**Objetivos:**
+- Criar um modelo preditivo com Tidymodels para prever o risco de câncer de pulmão.  
+- Utilizar a interface coerente do Tidymodels para todas as etapas do processo de modelagem, desde a preparação dos dados até a validação do modelo e a geração de previsões.  
+- Realizar o deploy do modelo na nuvem utilizando AWS, Vetiver e Plumber para tornar o modelo acessível de maneira escalável pela internet.  
+
+**Resultados:**
+- Foram desenvolvidos cinco modelos de machine learning para a previsão de câncer de pulmão. O modelo com KNN atingiu um recall de 0.90 com a técnica ADASYN para balanceamento de classes.
+- Com a API criada, o arquivo Docker gerado pelo Vetiver foi hospedado no Elastic Container Service (ECS) da AWS. Isso garantiu que o modelo fosse acessível pela internet.
+
+**Ferramentas e Cloud Utilizadas :**
+- Jupyter Notebook
+- Docker
+- R
+- AWS
+
+Para acessar o projeto basta clicar em:  [![View on GitHub](https://github.com/leticiadluz/ml_lung_cancer_deploy)
+  
 ### Previsão de Cancelamento de Serviço de Internet e Segmentação de Clientes
 
 ![image](https://github.com/leticiadluz/leticiadluz.github.io/assets/138510840/5a3b7280-76f7-4f5b-a5fa-ab2607be7bc3)
