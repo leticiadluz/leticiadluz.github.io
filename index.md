@@ -45,9 +45,8 @@ Ferramentas:
   - Python
   - Jupyter Notebook
     
-Para acessar o projeto basta clicar [aqui](https://leticiadluz.github.io/ml_introduction/resumo_ml.pdf).
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]([https://github.com/leticiadluz/ml_lung_cancer_deploy](https://leticiadluz.github.io/ml_introduction/resumo_ml.pdf))
+Para acessar o projeto basta clicar em:  
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://leticiadluz.github.io/ml_introduction/resumo_ml.pdf)
 
 ### Previsão de Câncer de Pulmão com R e Deploy na AWS ECS
 ![image](https://github.com/leticiadluz/leticiadluz.github.io/assets/138510840/acd2c7fe-6e3e-4fb1-be36-9d4355a93501)
@@ -69,7 +68,9 @@ Para acessar o projeto basta clicar [aqui](https://leticiadluz.github.io/ml_intr
 - R
 - AWS
 
-Para acessar o projeto basta clicar em: Para acessar o projeto basta clicar em:  [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/leticiadluz/ml_lung_cancer_deploy)
+Para acessar o projeto basta clicar em:   
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/leticiadluz/ml_lung_cancer_deploy)
+
 ### Previsão de Cancelamento de Serviço de Internet e Segmentação de Clientes
 
 ![image](https://github.com/leticiadluz/leticiadluz.github.io/assets/138510840/5a3b7280-76f7-4f5b-a5fa-ab2607be7bc3)
