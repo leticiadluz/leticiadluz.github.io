@@ -3,11 +3,11 @@
 ---
 ## Sobre mim
   Me chamo Letícia da Luz. Atualmente, estou em formação em Ciência de Dados pela Data Science Academy e recentemente concluí o Bootcamp de Data Science do programa Santander Coders, uma parceria entre a Ada Tech e a Santander Open Academy.   
-  Sou farmacêutica graduada pela Universidade Federal do Paraná e atuei em diversos setores da área da saúde. Meu interesse por dados surgiu durante minha experiência na área de epidemiologia, onde percebi o impacto significativo da análise de dados na tomada de decisões e na melhoria de processos.  
-  Meu objetivo é ajudar as empresas a superar desafios na tomada de decisões estratégicas, fornecendo soluções baseadas em dados e transformando informações em ideias que impulsionem o crescimento e a inovação.
+  Sou farmacêutica graduada pela Universidade Federal do Paraná e atuei em diversos setores da área da saúde. Meu interesse por dados surgiu durante minha experiência na área de epidemiologia, onde percebi o impacto significativo da análise de dados para a melhoria de processos.  
+  Meu objetivo é ajudar as empresas a superar desafios na tomada de decisões, fornecendo soluções baseadas em dados e transformando informações em ideias que impulsionem o crescimento e a inovação.
 
 Linguagens de Programação:
-- R: readr, dplyr, caret, randomforest, ggplot2, xgboost e catboost.
+- R: readr, dplyr, caret, tidymodels, ggplot2, xgboost, catboost e vetiver.
 - Python: pandas, scikit-learn, matplotlib e seaborn.
 - SQL
 
@@ -30,15 +30,15 @@ Ferramentas:
 ![image](https://github.com/leticiadluz/leticiadluz.github.io/assets/138510840/d9be65b3-1de2-4763-8def-d55f63766ab5)
 
 **Objetivos:** Neste projeto, busquei abordar uma das dúvidas mais comuns no estudo de Machine Learning: o processamento de dados. Meu objetivo foi identificar e aplicar as melhores práticas, evitando armadilhas comuns e tornando o código mais reutilizável. Para isso, elaborei um resumo abrangente que explora os seguintes tópicos essenciais:
-- Ordem de Pré-Processamento: Técnicas para evitar vazamento de dados, garantindo a integridade do modelo.
-- Tratamento de Valores Ausentes e Outliers: Métodos eficazes para lidar com dados faltantes e valores discrepantes.
+- Técnicas para evitar vazamento de dados.
+- Tratamento de Valores Ausentes e Outliers.
 - Técnicas de Encoding: Comparação entre One-Hot, Target e CatBoost Encoder, explicando a premissa por trás de cada um deles.
-- Métodos de Scaling: Análise das características de diferentes técnicas scaling.
-- Tunagem de Hiperparâmetros: Estratégias para otimizar os parâmetros dos modelos para melhorar o desempenho.
-- Métodos de Validação: Técnicas como holdout e validação cruzada para avaliar a performance do modelo de forma robusta.
-- Seleção de Variáveis: Utilização de métodos wrapper, incorporados e de filtro para identificar as features mais relevantes.
-- Dados Desbalanceados: Abordagens para lidar com datasets desbalanceados e a nova funcionalidade do scikit-learn 1.5 (TunedThresholdClassifierCV), que ajuda a ajustar os limiares de decisão de forma mais adequada.
-- Pipelines: Exemplos completos de pipelines para automatizar o processo de pré-processamento e modelagem, tornando o código mais reutilizável e organizado.
+- Análise das características de diferentes técnicas scaling.
+- Estratégias para otimizar os parâmetros dos modelos para melhorar o desempenho.
+- Técnicas como holdout e validação cruzada para avaliar a performance do modelo de forma robusta.
+- Utilização de métodos wrapper, incorporados e de filtro para identificar as features mais relevantes.
+- Abordagens para lidar com datasets desbalanceados e a nova funcionalidade do scikit-learn 1.5 (TunedThresholdClassifierCV), que ajuda a ajustar os limiares de decisão de forma mais adequada.
+- Exemplos completos de pipelines para automatizar o processo de pré-processamento e modelagem, tornando o código mais reutilizável e organizado.
 - Também explorei a decomposição de viés e variância tanto para regressão quanto para classificação, aprofundando-me além da simples premissa de underfitting, overfitting e complexidade de modelos, proporcionando uma compreensão mais sólida sobre esses conceitos.
 
 **Ferramentas Utilizadas:**
@@ -89,7 +89,7 @@ Para acessar o projeto basta clicar em:
 **Ferramentas Utilizadas:**
   - Google Colab
   - Python  
-Para acessar o projeto basta clicar em:
+Para acessar o projeto basta clicar em:  
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/leticiadluz/ml_internet_provider_churn)
 
 ---
@@ -110,7 +110,7 @@ Para acessar o projeto basta clicar em:
 **Ferramentas Utilizadas:**
   - Google Colab
   - Python  
-Para acessar o projeto basta clicar em:
+Para acessar o projeto basta clicar em:  
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/leticiadluz/HR_datascience_insights)
 
 ---
