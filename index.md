@@ -12,7 +12,6 @@ Linguagens de Programação:
 - SQL
 
 Ferramentas:
-- Microsoft Azure Machine Learning
 - Power BI
 - Excel  
   
@@ -83,8 +82,8 @@ Para acessar o projeto basta clicar em:
 - O segundo objetivo é agrupar os clientes que cancelaram o serviço de internet usando técnicas de clusterização. Ao identificar grupos de clientes com características e comportamentos semelhantes, conseguimos desenvolver estratégias de marketing específicas para reter esses clientes.
 
 **Resultados:**
-- Construímos seis modelos de Machine Learning utilizando três estimadores: KNN, SVC e XGBoost. Realizamos pré-processamento das variáveis e otimização de hiperparâmetros. A métrica escolhida foi o recall, visando minimizar falsos negativos e identificar o maior número de clientes em risco de churn. O modelo final, utilizando o estimador XGBoost, alcançou um recall de 0.94 nos dados de teste, indicando sua eficácia em identificar casos de churn. 
-- Realizamos também uma análise de clusterização com os clientes que cancelaram o serviço, usando os algoritmos K-Means e DBSCAN. Embora ambos tenham produzido scores semelhantes, optamos pelo K-Means devido à sua eficiência computacional e capacidade de identificar uma segmentação mais detalhada dos dados, otimizando a diferenciação entre perfis de clientes.
+- Construímos seis modelos de Machine Learning utilizando três estimadores. Realizamos pré-processamento das variáveis e otimização de hiperparâmetros. A métrica escolhida foi o recall. O modelo final, utilizando o estimador XGBoost, alcançou um recall de 0.94 nos dados de teste, indicando sua eficácia em identificar casos de churn. 
+- Realizamos também uma análise de clusterização com os clientes que cancelaram o serviço, usando os algoritmos K-Means e DBSCAN. Optamos pelo K-Means devido à sua eficiência computacional e capacidade de identificar uma segmentação mais detalhada dos dados, otimizando a diferenciação entre perfis de clientes.
   
 **Ferramentas Utilizadas:**
   - Google Colab
