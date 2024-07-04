@@ -32,12 +32,12 @@ Ferramentas:
 **Objetivos:** Neste projeto, busquei abordar uma das dúvidas mais comuns no estudo de Machine Learning: o processamento de dados. Meu objetivo foi identificar e aplicar as melhores práticas, evitando armadilhas comuns e tornando o código mais reutilizável. Para isso, elaborei um resumo abrangente que explora os seguintes tópicos essenciais:
 - Ordem de Pré-Processamento: Técnicas para evitar vazamento de dados, garantindo a integridade do modelo.
 - Tratamento de Valores Ausentes e Outliers: Métodos eficazes para lidar com dados faltantes e valores discrepantes.
-- Técnicas de Encoding: Comparação entre One-Hot, Target e CatBoost Encoder, explicando a premissa por trás de cada um e o motivo pelo qual devemos evitar One-Hot Encoding em árvores de decisão.
+- Técnicas de Encoding: Comparação entre One-Hot, Target e CatBoost Encoder, explicando a premissa por trás de cada um deles.
 - Métodos de Scaling: Análise das características de diferentes técnicas scaling.
 - Tunagem de Hiperparâmetros: Estratégias para otimizar os parâmetros dos modelos para melhorar o desempenho.
 - Métodos de Validação: Técnicas como holdout e validação cruzada para avaliar a performance do modelo de forma robusta.
 - Seleção de Variáveis: Utilização de métodos wrapper, incorporados e de filtro para identificar as features mais relevantes.
-- Dados Desbalanceados: Abordagens para lidar com datasets desbalanceados como o ajuste estratégico dos pesos de classe e a nova funcionalidade do scikit-learn 1.5 (TunedThresholdClassifierCV), que ajuda a ajustar os limiares de decisão de forma mais adequada.
+- Dados Desbalanceados: Abordagens para lidar com datasets desbalanceados e a nova funcionalidade do scikit-learn 1.5 (TunedThresholdClassifierCV), que ajuda a ajustar os limiares de decisão de forma mais adequada.
 - Pipelines: Exemplos completos de pipelines para automatizar o processo de pré-processamento e modelagem, tornando o código mais reutilizável e organizado.
 - Também explorei a decomposição de viés e variância tanto para regressão quanto para classificação, aprofundando-me além da simples premissa de underfitting, overfitting e complexidade de modelos, proporcionando uma compreensão mais sólida sobre esses conceitos.
 
@@ -76,7 +76,7 @@ Para acessar o projeto basta clicar em:
 ![image](https://github.com/leticiadluz/leticiadluz.github.io/assets/138510840/5a3b7280-76f7-4f5b-a5fa-ab2607be7bc3)
 
 
-**Contexto:** Com a crescente competição entre os provedores de internet, manter os clientes existentes tornou-se uma prioridade vital para aumentar a receita. Diante desse cenário, entender o fenômeno do churn, ou seja, a taxa de cancelamento de serviços, é crucial. Os provedores buscam identificar quais clientes apresentam maior probabilidade de cancelar seus serviços, pois isso lhes permite antecipar tais movimentos e implementar estratégias eficazes de retenção.
+**Contexto:** Com a crescente competição entre os provedores de internet, manter os clientes existentes tornou-se uma prioridade vital para aumentar a receita. Diante desse cenário, entender o fenômeno do churn é crucial. Os provedores buscam identificar quais clientes apresentam maior probabilidade de cancelar seus serviços, pois isso lhes permite implementar estratégias eficazes de retenção.
 
 **Objetivos:** 
 - O primeiro objetivo é criar um modelo capaz de prever quando um cliente está prestes a cancelar seu serviço de internet.
@@ -89,7 +89,8 @@ Para acessar o projeto basta clicar em:
 **Ferramentas Utilizadas:**
   - Google Colab
   - Python  
-Para acessar o projeto basta clicar em:  [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/leticiadluz/ml_internet_provider_churn)
+Para acessar o projeto basta clicar em:
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/leticiadluz/ml_internet_provider_churn)
 
 ---
 ### Ciência de Dados em Recursos Humanos
@@ -101,15 +102,16 @@ Para acessar o projeto basta clicar em:  [![View on GitHub](https://img.shields.
 - Utilizar técnicas de análise exploratória, modelos preditivos e clusterização para desenvolver estratégias mais eficazes de retenção e identificar fatores críticos que contribuem para o turnover.
 
 **Resultados:**
-- Na Análise Exploratória dos Dados, identificamos que as variáveis 'Pontuação de Desempenho' e 'Horas Extras' mostram uma relação significativa com a taxa de desligamento. Funcionários com pontuações de desempenho mais altas e aqueles que realizam mais horas extras têm uma maior probabilidade de se desligarem da empresa.
+- Na Análise Exploratória dos Dados, identificamos que funcionários com pontuações de desempenho mais altas e aqueles que realizam mais horas extras têm uma maior probabilidade de se desligarem da empresa.
 - Construímos modelos de Machine Learning, a métrica escolhida para otimização foi o recall. Ao final, utilizamos uma abordagem de ensemble que combina as forças de dois algoritmos de ML para melhorar o desempenho da classificação através de um VotingClassifier. O resultado final foi um recall de 0.62 nos dados de teste, indicando um desempenho razoável na identificação de funcionários propensos a sair.
-- Realizamos uma análise de clusterização dos funcionários desligados utilizando o algoritmo K-Means, a análise de clusterização dos funcionários desligados revelou que o Cluster 1 é composto por funcionários de nível sênior que fazem mais horas extras e recebem um salário maior. Os padrões encontrados neste projeto podem ajudar a empresa a desenvolver estratégias específicas para diminuir o turnover.
+- Realizamos uma análise de clusterização dos funcionários desligados utilizando o algoritmo K-Means, a análise de clusterização revelou que o Cluster 1 é composto por funcionários de nível sênior que fazem mais horas extras e recebem um salário maior. Os padrões encontrados neste projeto podem ajudar a empresa a desenvolver estratégias específicas para diminuir o turnover.
 - Este projeto me rendeu o 1º lugar entre mais de 500 inscritos no desafio.
   
 **Ferramentas Utilizadas:**
   - Google Colab
   - Python  
-Para acessar o projeto basta clicar em:  [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/leticiadluz/HR_datascience_insights)
+Para acessar o projeto basta clicar em:
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/leticiadluz/HR_datascience_insights)
 
 ---
 
