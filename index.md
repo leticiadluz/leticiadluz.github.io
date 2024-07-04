@@ -54,8 +54,8 @@ Para acessar o projeto basta clicar em:
 
 **Objetivos:**
 - Criar um modelo preditivo com Tidymodels para prever o risco de câncer de pulmão.  
-- Utilizar a interface coerente do Tidymodels para todas as etapas do processo de modelagem, desde a preparação dos dados até a validação do modelo e a geração de previsões.  
-- Realizar o deploy do modelo na nuvem utilizando AWS, Vetiver e Plumber para tornar o modelo acessível de maneira escalável pela internet.  
+- Utilizar a interface do Tidymodels para todas as etapas do processo de modelagem, desde a preparação dos dados até a validação do modelo e a geração de previsões.  
+- Realizar o deploy do modelo na nuvem utilizando AWS, Vetiver e Plumber para tornar o modelo acessível pela internet.  
 
 **Resultados:**
 - Foram desenvolvidos cinco modelos de machine learning para a previsão de câncer de pulmão. O modelo com KNN atingiu um recall de 0.90 nos dados de testes, com a técnica ADASYN para balanceamento de classes.
