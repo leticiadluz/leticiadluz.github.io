@@ -119,15 +119,15 @@ Para acessar o projeto basta clicar em:
 
 ## Projetos de Estatística <a name="projetos-estatistica"></a>
 
-- [Mini projeto 1 - Análise combinatória e Probabilidades em Python](https://github.com/leticiadluz/estatistica_com_r_py/blob/main/analise_combinatoria_probabilidade_python.ipynb)
-- [Mini projeto 2 - Variáveis discretas e suas distribuições em R](https://github.com/leticiadluz/estatistica_com_r_py/blob/main/variaveis_aleatorias_discretas_distribuicoes_R.ipynb)
-- [Mini projeto 3 - Variáveis contínuas e suas distribuições em R]()
-- [Mini projeto 4 - Estatística Descritiva em R](https://github.com/leticiadluz/estatistica_com_r_py/blob/main/estatistica_descritiva_R.ipynb)
-- [Mini projeto 5 - Testes Paramétricos em R]()
-- [Mini projeto 6 - Testes Não Paramétricas em R]()
-- [Mini projeto 7 - Teste de Qui-quadrado em R](https://github.com/leticiadluz/estatistica_com_r_py/blob/main/teste_qui_quadrado_R.ipynb)
-- [Mini projeto 8 - Análise Exploratória de Dados utilizando SQL e Python](https://github.com/leticiadluz/projetos_ADA/blob/main/banco_dados/Projeto_banco_dados.ipynb)
-- [Mini projeto 9 - Construção de um algoritmo baseado em k-NN em Python](https://github.com/leticiadluz/projetos_ADA/blob/main/logica_programacao_II/KNN_projeto_carteira_investimentos.ipynb)
+- [Estatística Descritiva para Variáveis Qualitativas em Python](https://github.com/leticiadluz/estatistica_com_r_py/blob/main/1_estatistica_descritiva_qualitativas__python.ipynb)
+- [Estatística Descritiva para Variáveis Quantitativas em R](https://github.com/leticiadluz/estatistica_com_r_py/blob/main/2_estatistica_descritiva_quantitativas_R.ipynb)
+- [Análise Bidimensional em R](https://github.com/leticiadluz/estatistica_com_r_py/blob/main/3_analise_bidimensional_R.ipynb)
+- [Análise combinatória e Probabilidades](https://github.com/leticiadluz/estatistica_com_r_py/blob/main/4_analise_combinatoria_probabilidade_python.ipynb)
+- [ariáveis aleatórias discretas e suas distribuições](https://github.com/leticiadluz/estatistica_com_r_py/blob/main/5_variaveis_aleatorias_discretas_distribuicoes_R.ipynb)
+- [Análise Exploratória de Dados utilizando SQL e Python](https://github.com/leticiadluz/projetos_ADA/blob/main/banco_dados/Projeto_banco_dados.ipynb)
+
+## Outros
+- [Construção de um algoritmo baseado em k-NN em Python](https://github.com/leticiadluz/projetos_ADA/blob/main/logica_programacao_II/KNN_projeto_carteira_investimentos.ipynb)
 
 
 ---
