@@ -10,14 +10,9 @@ Linguagens de Programação:
 - R: readr, dplyr, caret, tidymodels, ggplot2, xgboost, catboost e vetiver.
 - Python: pandas, scikit-learn, matplotlib e seaborn.
 - SQL
-
-Ferramentas:
-- Power BI
-- Excel  
   
 [Projetos Machine Learning](#projetosml)    
 [Projetos SQL](#projetos)  
-[Projetos Power BI](#projetos)  
 [Projetos Excel](#projetos)    
 [Projetos Estatística](#projetos-estatistica)  
 
