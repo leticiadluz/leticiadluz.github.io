@@ -122,7 +122,7 @@ Para acessar o projeto basta clicar em:
 
 ---
 ## Projetos em SQL <a name="projetossql"></a>
-- [Análise Exploratória de Dados utilizando SQL e Python](https://github.com/leticiadluz/projetos_ADA/blob/main/banco_dados/Projeto_banco_dados.ipynb)
+- [Análise Exploratória de Dados Literários com SQL e PostgreSQL](https://github.com/leticiadluz/projetos_ADA/blob/main/banco_dados/Projeto_banco_dados.ipynb)
 
 ## Outros
 - [Construção de um algoritmo baseado em k-NN em Python](https://github.com/leticiadluz/projetos_ADA/blob/main/logica_programacao_II/KNN_projeto_carteira_investimentos.ipynb)
