@@ -12,7 +12,7 @@ Linguagens de Programação:
 - SQL
   
 [Projetos Machine Learning](#projetosml)    
-[Projetos SQL](#projetos)  
+[Projetos SQL](#projetossql)  
 [Projetos Excel](#projetos)    
 [Projetos Estatística](#projetos-estatistica)  
 
@@ -119,6 +119,9 @@ Para acessar o projeto basta clicar em:
 - [Análise Bidimensional em R](https://github.com/leticiadluz/estatistica_com_r_py/blob/main/3_analise_bidimensional_R.ipynb)
 - [Análise combinatória e Probabilidades em Python](https://github.com/leticiadluz/estatistica_com_r_py/blob/main/4_analise_combinatoria_probabilidade_python.ipynb)
 - [Variáveis aleatórias discretas e suas distribuições em R](https://github.com/leticiadluz/estatistica_com_r_py/blob/main/5_variaveis_aleatorias_discretas_distribuicoes_R.ipynb)
+
+---
+## Projetos em SQL <a name="projetossql"></a>
 - [Análise Exploratória de Dados utilizando SQL e Python](https://github.com/leticiadluz/projetos_ADA/blob/main/banco_dados/Projeto_banco_dados.ipynb)
 
 ## Outros
