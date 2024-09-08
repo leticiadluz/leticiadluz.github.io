@@ -13,7 +13,6 @@ Linguagens de Programação:
   
 [Projetos Machine Learning](#projetosml)    
 [Projetos SQL](#projetossql)  
-[Projetos Excel](#projetos)    
 [Projetos Estatística](#projetos-estatistica)  
 
 ---
