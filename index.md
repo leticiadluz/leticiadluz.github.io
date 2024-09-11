@@ -13,7 +13,7 @@ Linguagens de Programação:
   
 [Projetos Machine Learning](#projetos-ml)    
 [Projetos SQL](#projetos-sql)  
-[Projetos Estatística](#projetos-estatistica) 
+[Projetos Estatística](#projetos-estatistica)   
 [Estimadores em Machine Learning](#projetos-estimadores)
 
 ---
@@ -124,9 +124,8 @@ Para acessar o projeto basta clicar em:
 ## Projetos em SQL <a name="projetos-sql"></a>
 - [Análise Exploratória de Dados Literários com SQL e PostgreSQL](https://github.com/leticiadluz/projetos_ADA/blob/main/banco_dados/Projeto_banco_dados.ipynb)
 
---
+---
 ## Estimadores em Machine Learning <a name="projetos-estimadores"></a>
-[Estimadores em Machine Learning](#projetos-estimadores)
 
 ---
 ## Outros
