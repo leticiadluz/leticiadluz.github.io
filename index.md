@@ -11,13 +11,14 @@ Linguagens de Programação:
 - Python: pandas, scikit-learn, matplotlib e seaborn.
 - SQL
   
-[Projetos Machine Learning](#projetosml)    
-[Projetos SQL](#projetossql)  
-[Projetos Estatística](#projetos-estatistica)  
+[Projetos Machine Learning](#projetos-ml)    
+[Projetos SQL](#projetos-sql)  
+[Projetos Estatística](#projetos-estatistica) 
+[Estimadores em Machine Learning](#projetos-estimadores)
 
 ---
 
-## Projetos de Machine Learning <a name="projetosml"></a>
+## Projetos de Machine Learning <a name="projetos-ml"></a>
 
 ### Processamento de Dados em Machine Learning: Técnicas e Melhores Práticas
 ![image](https://github.com/leticiadluz/leticiadluz.github.io/assets/138510840/d9be65b3-1de2-4763-8def-d55f63766ab5)
@@ -120,13 +121,16 @@ Para acessar o projeto basta clicar em:
 - [Variáveis aleatórias discretas e suas distribuições em R](https://github.com/leticiadluz/estatistica_com_r_py/blob/main/5_variaveis_aleatorias_discretas_distribuicoes_R.ipynb)
 
 ---
-## Projetos em SQL <a name="projetossql"></a>
+## Projetos em SQL <a name="projetos-sql"></a>
 - [Análise Exploratória de Dados Literários com SQL e PostgreSQL](https://github.com/leticiadluz/projetos_ADA/blob/main/banco_dados/Projeto_banco_dados.ipynb)
+
+--
+## Estimadores em Machine Learning <a name="projetos-estimadores"></a>
+[Estimadores em Machine Learning](#projetos-estimadores)
 
 ---
 ## Outros
 - [Construção de um algoritmo baseado em k-NN em Python](https://github.com/leticiadluz/projetos_ADA/blob/main/logica_programacao_II/KNN_projeto_carteira_investimentos.ipynb)
-
 
 ---
 ## Certificados
