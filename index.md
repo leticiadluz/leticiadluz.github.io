@@ -126,6 +126,7 @@ Para acessar o projeto basta clicar em:
 
 ---
 ## Estimadores em Machine Learning <a name="projetos-estimadores"></a>
+- [Árvores de Decisão](https://github.com/leticiadluz/estimadores/blob/main/decision_tree.ipynb)
 
 ---
 ## Outros
