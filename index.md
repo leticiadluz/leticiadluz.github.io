@@ -127,7 +127,7 @@ O propósito deste tópico é proporcionar uma visão geral abrangente dos princ
 
 ---
 ## Estimadores em Machine Learning <a name="projetos-estimadores"></a>
-Aqui você encontra resumos que detalham o funcionamento dos estimadores em machine learning:  
+Aqui você encontra resumos que detalham o funcionamento dos estimadores em Machine Learning:  
 
 - [Árvores de Decisão](https://github.com/leticiadluz/estimadores/blob/main/decision_tree.ipynb)
 
