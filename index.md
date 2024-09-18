@@ -24,9 +24,8 @@ Meu objetivo é ajudar as empresas a superar desafios na tomada de decisões, fo
 - Realizar o deploy do modelo na nuvem utilizando AWS, Vetiver e Plumber para tornar o modelo acessível pela internet.  
 
 **Resultados:**
-- Foram desenvolvidos cinco modelos de machine learning para a previsão de câncer de pulmão. O modelo com KNN atingiu um recall de 0.90 nos dados de testes, com a técnica ADASYN para balanceamento de classes.
-- Esses resultados indicam que há espaço para melhorias no modelo, pois visamos detectar corretamente a maioria dos casos positivos e possibilitar intervenções precoces e eficazes. Apesar dessas limitações, o modelo ainda é capaz de identificar indivíduos com alto risco, o que pode aumentar significativamente as chances de tratamento bem-sucedido.
-- Para disponibilizar o modelo através de uma API em R, utilizei o pacote Plumber em conjunto com o Vetiver. Um arquivo Docker para criar uma imagem Docker foi gerado por meio da biblioteca Vetiver.
+- Foram desenvolvidos cinco modelos de machine learning para a previsão de câncer de pulmão,com o modelo KNN alcançando um recall de 0.90 nos testes, usando ADASYN para balanceamento de classes. Apesar de espaço para melhorias, o modelo já consegue identificar casos de alto risco, aumentando as chances de tratamento eficaz.
+- O modelo foi disponibilizado via API em R, usando Plumber e Vetiver, e hospedado na AWS através do Elastic Container Service (ECS), garantindo acesso online.
 - A imagem Docker foi hospedada no Elastic Container Service (ECS) da AWS. Isso garantiu que o modelo fosse acessível pela internet.
 - Este projeto mostrou o potencial dos modelos de machine learning em prever câncer de pulmão e a viabilidade de seu deploy em ambientes de produção utilizando a AWS. 
 
