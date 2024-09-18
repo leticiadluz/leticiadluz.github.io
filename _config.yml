@@ -9,24 +9,16 @@ description:
   <a href="mailto:leticiadluz@gmail.com">E-mail</a>
   </p>
   
- <style>
-  .menu-link {
-    display: inline-block;
-    width: 250px; /* Defina uma largura fixa para todos os links */
-    text-align: center;
-  }
-  </style>
-
-<p align="center">
+  <p align="center">
    Navegue pelos meus projetos&#58;
-</p>
-<p align="center">
-   <a href="#projetos-ml" class="menu-link">Projetos Machine Learning</a> <br>
-   <a href="#projetos-analise" class="menu-link">Projetos Análise de Dados</a> <br>
-   <a href="#projetos-estatistica" class="menu-link">Fundamentos da Estatística</a> <br>
-   <a href="#ml-processamento" class="menu-link">Processamento de Dados em ML</a> <br>
-   <a href="#projetos-estimadores" class="menu-link">Estimadores em Machine Learning</a>
-  </p>
+   </p>
+   <p align="justify">
+   <a href="#projetos-ml">&nbsp;&nbsp;Projetos Machine Learning</a> <br>
+   <a href="#projetos-analise">&nbsp;&nbsp;Projetos Análise de Dados</a> <br>
+   <a href="#projetos-estatistica">&nbsp;&nbsp;Fundamentos da Estatística</a> <br>
+   <a href="#ml-processamento">&nbsp;&nbsp;Processamento de Dados em ML</a> <br>
+   <a href="#projetos-estimadores">&nbsp;&nbsp;Estimadores em Machine Learning</a>
+   </p> 
    </p>
    <p align="center">
    <br><br>
