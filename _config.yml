@@ -13,14 +13,11 @@ description:
    Navegue pelos meus projetos&#58;
    </p>
    <p align="center">
+   <div style="display: inline-block; text-align: left;">
    <a href="#projetos-ml">Projetos Machine Learning</a> <br>
    <a href="#projetos-analise">Projetos Análise de Dados</a> <br>
    <a href="#projetos-estatistica">Fundamentos da Estatística</a> <br>
    <a href="#ml-processamento">Processamento de Dados em ML</a> <br>
    <a href="#projetos-estimadores">Estimadores em Machine Learning</a>
+   </div>
    </p> 
-   </p>
-   <p align="center">
- <br><br>
-  </p>
-theme: jekyll-theme-minimal
