@@ -14,7 +14,7 @@ Linguagens de Programação:
 [Projetos Machine Learning](#projetos-ml)      
 [Projetos Análise de Dados](#projetos-analise)    
 [Fundamentos da Estatística com Aplicações em R e Python](#projetos-estatistica)   
-[Processamento de Dados em Machine Learning](#ml-processsamento)  
+[Processamento de Dados em Machine Learning](#ml-processamento)  
 [Estimadores em Machine Learning](#projetos-estimadores)  
 
 ---
@@ -107,7 +107,7 @@ O propósito deste tópico é proporcionar uma visão geral abrangente dos princ
 ---
 ### Processamento de Dados em Machine Learning: Técnicas e Melhores Práticas  <a name="ml-processamento"></a>
 
-**Objetivos:** Neste projeto, busquei abordar uma das dúvidas mais comuns no estudo de Machine Learning: o processamento de dados. Meu objetivo foi identificar e aplicar as melhores práticas, evitando armadilhas comuns e tornando o código mais reutilizável. Para isso, elaborei um resumo abrangente que explora os seguintes tópicos essenciais:
+Neste projeto, busquei abordar uma das dúvidas mais comuns no estudo de Machine Learning: o processamento de dados. Meu objetivo foi identificar e aplicar as melhores práticas, evitando armadilhas comuns e tornando o código mais reutilizável. Para isso, elaborei um resumo abrangente que explora os seguintes tópicos essenciais:
 - Técnicas para evitar vazamento de dados.
 - Tratamento de Valores Ausentes e Outliers.
 - Técnicas de Encoding: Comparação entre One-Hot, Target e CatBoost Encoder, explicando a premissa por trás de cada um deles.
