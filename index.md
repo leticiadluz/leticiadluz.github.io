@@ -9,13 +9,6 @@ Atualmente, estou em formação em Ciência de Dados pela Data Science Academy e
 Sou farmacêutica graduada pela Universidade Federal do Paraná e atuei em diversos setores da área da saúde. Meu interesse por dados surgiu durante minha experiência na área de epidemiologia, onde percebi o impacto significativo da análise de dados para a melhoria de processos.  
 Meu objetivo é ajudar as empresas a superar desafios na tomada de decisões, fornecendo soluções baseadas em dados e transformando informações em ideias que impulsionem o crescimento e a inovação.
 
-  
-[Projetos Machine Learning](#projetos-ml)      
-[Projetos Análise de Dados](#projetos-analise)    
-[Fundamentos da Estatística com Aplicações em R e Python](#projetos-estatistica)   
-[Processamento de Dados em Machine Learning](#ml-processamento)  
-[Estimadores em Machine Learning](#projetos-estimadores)  
-
 ---
 
 ## Projetos de Machine Learning <a name="projetos-ml"></a>
