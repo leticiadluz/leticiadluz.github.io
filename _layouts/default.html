@@ -21,11 +21,12 @@
    <![endif]-->
 </head>
 <body>
-   <div class="wrapper" style="max-width: 1200px; margin-left: auto; margin-right: auto; padding-left: 20px; padding-right: 20px;">
+   <div class="wrapper">
       <header>
          <h1 style="text-align:center;"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
          {% if site.logo %}
-         <img src="{{ site.logo | relative_url }}" alt="Foto de Perfil" style="width:150px; height:auto; border-radius:50%;" />
+         <!-- Aqui está a modificação da imagem de perfil com o estilo inline -->
+         <img src="{{ site.logo | relative_url }}" alt="Foto de Perfil" style="width:250px; height:auto; border-radius:50%;" />
          {% endif %}
          <p>{{ site.description | default: site.github.project_tagline }}</p>
          {% if site.github.is_project_page %}
