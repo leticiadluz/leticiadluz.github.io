@@ -36,7 +36,7 @@ Meu objetivo é ajudar as empresas a superar desafios na tomada de decisões, fo
 - AWS
 
 #### Para acessar o projeto basta clicar em:     [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/leticiadluz/ml_lung_cancer_deploy)
-
+---
 ### Previsão de Cancelamento de Serviço de Internet e Segmentação de Clientes
 ![image](https://github.com/user-attachments/assets/45f7431d-0632-4d6f-bdce-934a1206e80a)
 
