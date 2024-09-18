@@ -16,7 +16,7 @@ Meu objetivo é ajudar as empresas a superar desafios na tomada de decisões, fo
 ### Previsão de Câncer de Pulmão com R e Deploy na AWS ECS
 ![image](https://github.com/user-attachments/assets/3c43007e-7d45-4ef2-8101-15508083c055)
 
-**Contexto:** Este projeto visa prever o risco de câncer de pulmão utilizando machine learning com Tidymodels em R. O modelo ajuda a compreender o risco de desenvolver câncer de pulmão baseado em diversos fatores, auxiliando na tomada de decisões na área da saúde. Os dados foram coletados do Kaggle.  
+**Contexto:** Este projeto visa prever o risco de câncer de pulmão utilizando machine learning com Tidymodels em R. O modelo ajuda a compreender o risco de desenvolver câncer de pulmão baseado em diversos fatores, auxiliando na tomada de decisões na área da saúde. 
 
 **Objetivos:**
 - Criar um modelo preditivo com Tidymodels para prever o risco de câncer de pulmão.  
@@ -24,7 +24,7 @@ Meu objetivo é ajudar as empresas a superar desafios na tomada de decisões, fo
 - Realizar o deploy do modelo na nuvem utilizando AWS, Vetiver e Plumber para tornar o modelo acessível pela internet.  
 
 **Resultados:**
-- Foram desenvolvidos cinco modelos de machine learning para a previsão de câncer de pulmão,com o modelo KNN alcançando um recall de 0.90 nos testes, usando ADASYN para balanceamento de classes. Apesar de espaço para melhorias, o modelo já consegue identificar casos de alto risco, aumentando as chances de tratamento eficaz.
+- Foram desenvolvidos cinco modelos de machine learning para a previsão de câncer de pulmão, com o modelo KNN alcançando um recall de 0.90 nos testes, usando ADASYN para balanceamento de classes. Apesar de espaço para melhorias, o modelo já consegue identificar casos de alto risco, aumentando as chances de tratamento eficaz.
 - O modelo foi disponibilizado via API em R, usando Plumber e Vetiver, e hospedado na AWS através do Elastic Container Service (ECS), garantindo acesso online.
 - A imagem Docker foi hospedada no Elastic Container Service (ECS) da AWS. Isso garantiu que o modelo fosse acessível pela internet.
 - Este projeto mostrou o potencial dos modelos de machine learning em prever câncer de pulmão e a viabilidade de seu deploy em ambientes de produção utilizando a AWS. 
@@ -35,15 +35,13 @@ Meu objetivo é ajudar as empresas a superar desafios na tomada de decisões, fo
 - R
 - AWS
 
-Para acessar o projeto basta clicar em:   
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/leticiadluz/ml_lung_cancer_deploy)
+Para acessar o projeto basta clicar em:     [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/leticiadluz/ml_lung_cancer_deploy)
 
 ### Previsão de Cancelamento de Serviço de Internet e Segmentação de Clientes
 
-![image](https://github.com/leticiadluz/leticiadluz.github.io/assets/138510840/5a3b7280-76f7-4f5b-a5fa-ab2607be7bc3)
+![image](https://github.com/user-attachments/assets/45f7431d-0632-4d6f-bdce-934a1206e80a)
 
-
-**Contexto:** Com a crescente competição entre os provedores de internet, manter os clientes existentes tornou-se uma prioridade vital para aumentar a receita. Diante desse cenário, entender o fenômeno do churn é crucial. Os provedores buscam identificar quais clientes apresentam maior probabilidade de cancelar seus serviços, pois isso lhes permite implementar estratégias eficazes de retenção.
+**Contexto:** Com a crescente competição entre os provedores de internet, manter os clientes existentes tornou-se uma prioridade para aumentar a receita. Diante desse cenário, entender o fenômeno do churn é crucial. Identificar os clientes com maior probabilidade de cancelar os serviços permite a implementação de estratégias eficazes de retenção.
 
 **Objetivos:** 
 - O primeiro objetivo é criar um modelo capaz de prever quando um cliente está prestes a cancelar seu serviço de internet.
