@@ -19,6 +19,18 @@
    <!--[if lt IE 9]>
    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
    <![endif]-->
+   <style>
+      /* Adicionando estilos diretamente no cabeçalho */
+      .wrapper {
+         height: auto; /* Garante que o contêiner principal tenha altura automática */
+      }
+      .description {
+         height: auto;
+         overflow: visible;
+         word-wrap: break-word;
+         white-space: normal; /* Garante que o texto seja quebrado corretamente */
+      }
+   </style>
 </head>
 <body>
    <div class="wrapper">
@@ -28,8 +40,8 @@
          <!-- Aqui está a modificação da imagem de perfil com o estilo inline -->
          <img src="{{ site.logo | relative_url }}" alt="Foto de Perfil" style="width:250px; height:auto; border-radius:50%;" />
          {% endif %}
-         <!-- Aqui você pode garantir que o parágrafo da descrição tenha uma altura automática e overflow visível -->
-         <p style="height:auto; overflow:visible; word-wrap:break-word;">
+         <!-- Aplicando a classe description com as correções de estilo -->
+         <p class="description">
             {{ site.description | default: site.github.project_tagline }}
          </p>
          {% if site.github.is_project_page %}
