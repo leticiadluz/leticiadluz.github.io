@@ -1,7 +1,6 @@
 # Portfólio
 Olá, este é o meu portfólio de projetos.  
-Neste espaço, busco apresentar um pouco sobre as minhas habilidades para resolver problemas de negócios por meio de Análise de Dados, 
-Estatística e Machine Learning utilizando as **linguagens Python, R e SQL**.  
+Aqui, apresento minhas habilidades na resolução de problemas de negócios por meio de Análise de Dados, Estatística e Machine Learning, utilizando **Python, R e SQL**.  
 
 ---
 
