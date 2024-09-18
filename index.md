@@ -1,4 +1,4 @@
-# Portfólio
+![image](https://github.com/user-attachments/assets/0360d82a-a202-42e2-9188-48a6beeb1612)![image](https://github.com/user-attachments/assets/0360d82a-a202-42e2-9188-48a6beeb1612)# Portfólio
 
 ## Sobre mim
 Atualmente, estou em formação em Ciência de Dados pela Data Science Academy e recentemente concluí o Bootcamp de Data Science do programa Santander Coders, uma parceria entre a Ada Tech e a Santander Open Academy.   
@@ -14,7 +14,7 @@ Meu objetivo é ajudar as empresas a superar desafios na tomada de decisões, fo
 ## Projetos de Machine Learning <a name="projetos-ml"></a>
 
 ### Previsão de Câncer de Pulmão com R e Deploy na AWS ECS
-![image](https://github.com/leticiadluz/leticiadluz.github.io/assets/138510840/acd2c7fe-6e3e-4fb1-be36-9d4355a93501)
+![image](https://github.com/user-attachments/assets/3c43007e-7d45-4ef2-8101-15508083c055)
 
 **Contexto:** Este projeto visa prever o risco de câncer de pulmão utilizando machine learning com Tidymodels em R. O modelo ajuda a compreender o risco de desenvolver câncer de pulmão baseado em diversos fatores, auxiliando na tomada de decisões na área da saúde. Os dados foram coletados do Kaggle.  
 
