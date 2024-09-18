@@ -28,7 +28,12 @@
          <!-- Aqui está a modificação da imagem de perfil com o estilo inline -->
          <img src="{{ site.logo | relative_url }}" alt="Foto de Perfil" style="width:250px; height:auto; border-radius:50%; display: block; margin: 0 auto;" />
          {% endif %}
-         <p style="text-align: center;">{{ site.description | default: site.github.project_tagline }}</p>
+         
+         <!-- Modificação para permitir textos longos -->
+         <p style="text-align: justify; font-size: 16px; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 10px; height: auto; overflow: visible;">
+            {{ site.description | default: site.github.project_tagline }}
+         </p>
+
          {% if site.github.is_project_page %}
          <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
          {% endif %}
