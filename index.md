@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0360d82a-a202-42e2-9188-48a6beeb1612)![image](https://github.com/user-attachments/assets/0360d82a-a202-42e2-9188-48a6beeb1612)# Portfólio
+# Portfólio
 
 ## Sobre mim
 Atualmente, estou em formação em Ciência de Dados pela Data Science Academy e recentemente concluí o Bootcamp de Data Science do programa Santander Coders, uma parceria entre a Ada Tech e a Santander Open Academy.   
@@ -69,10 +69,12 @@ Para acessar o projeto basta clicar em:
 - Utilizar técnicas de análise exploratória, modelos preditivos e clusterização para desenvolver estratégias mais eficazes de retenção e identificar fatores críticos que contribuem para o turnover.
 
 **Resultados:**
-- Na Análise Exploratória dos Dados, identificamos que funcionários com pontuações de desempenho mais altas e aqueles que realizam mais horas extras têm uma maior probabilidade de se desligarem da empresa.
-- Construímos modelos de Machine Learning, a métrica escolhida para otimização foi o recall. Ao final, utilizamos uma abordagem de ensemble que combina as forças de dois algoritmos de ML para melhorar o desempenho da classificação através de um VotingClassifier. O resultado final foi um recall de 0.62 nos dados de teste, indicando um desempenho razoável na identificação de funcionários propensos a sair.
-- Realizamos uma análise de clusterização dos funcionários desligados utilizando o algoritmo K-Means, a análise de clusterização revelou que o Cluster 1 é composto por funcionários de nível sênior que fazem mais horas extras e recebem um salário maior. Os padrões encontrados neste projeto podem ajudar a empresa a desenvolver estratégias específicas para diminuir o turnover.
-- Este projeto me rendeu o 1º lugar entre mais de 500 inscritos no desafio.
+- Análise exploratória mostrou que funcionários com altas pontuações de desempenho e mais horas extras têm maior probabilidade de se desligarem da empresa.  
+- Construímos modelos de Machine Learning, com o recall como métrica de otimização.  
+- Utilizamos uma abordagem de ensemble com VotingClassifier, obtendo um recall de 0.62 nos dados de teste, indicando bom desempenho na identificação de funcionários propensos a sair.  
+- Realizamos clusterização com K-Means, revelando que o Cluster 1 é composto por funcionários sêniores que fazem mais horas extras e recebem salários mais altos.  
+- Os padrões identificados podem ajudar a empresa a desenvolver estratégias específicas para reduzir o turnover.  
+- O projeto garantiu o 1º lugar entre mais de 500 inscritos em um desafio.  
   
 **Ferramentas Utilizadas:**
   - Google Colab
