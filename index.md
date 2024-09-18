@@ -1,17 +1,15 @@
 # Portfólio
 Olá, este é o meu portfólio de projetos.  
 Neste espaço, busco apresentar um pouco sobre as minhas habilidades para resolver problemas de negócios por meio de Análise de Dados, 
-Estatística e Machine Learning utilizando as linguagens Python, R e SQL.  
+Estatística e Machine Learning utilizando as **linguagens Python, R e SQL**.  
+
 ---
+
 ## Sobre mim
 Atualmente, estou em formação em Ciência de Dados pela Data Science Academy e recentemente concluí o Bootcamp de Data Science do programa Santander Coders, uma parceria entre a Ada Tech e a Santander Open Academy.   
 Sou farmacêutica graduada pela Universidade Federal do Paraná e atuei em diversos setores da área da saúde. Meu interesse por dados surgiu durante minha experiência na área de epidemiologia, onde percebi o impacto significativo da análise de dados para a melhoria de processos.  
 Meu objetivo é ajudar as empresas a superar desafios na tomada de decisões, fornecendo soluções baseadas em dados e transformando informações em ideias que impulsionem o crescimento e a inovação.
 
-Linguagens de Programação:
-- R: readr, dplyr, caret, tidymodels, ggplot2, xgboost, catboost e vetiver.
-- Python: pandas, scikit-learn, matplotlib e seaborn.
-- SQL
   
 [Projetos Machine Learning](#projetos-ml)      
 [Projetos Análise de Dados](#projetos-analise)    
