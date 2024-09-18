@@ -11,11 +11,11 @@ Linguagens de Programação:
 - Python: pandas, scikit-learn, matplotlib e seaborn.
 - SQL
   
-[Projetos Machine Learning](#projetos-ml)    
-[Projetos Análise de Dados](#projetos-analise)  
-[Fundamentos da Estatística com Aplicações em R e Python](#projetos-estatistica) 
-[Processamento de Dados em Machine Learning](#ml-processsamento)
-[Estimadores em Machine Learning](#projetos-estimadores)
+[Projetos Machine Learning](#projetos-ml)      
+[Projetos Análise de Dados](#projetos-analise)    
+[Fundamentos da Estatística com Aplicações em R e Python](#projetos-estatistica)   
+[Processamento de Dados em Machine Learning](#ml-processsamento)  
+[Estimadores em Machine Learning](#projetos-estimadores)  
 
 ---
 
@@ -90,7 +90,7 @@ Para acessar o projeto basta clicar em:
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/leticiadluz/HR_datascience_insights)
 
 ---
-## Projetos em SQL <a name="projetos-analise"></a>
+## Projetos de Análise de Dados <a name="projetos-analise"></a>
 - [Análise Exploratória de Dados Literários com SQL e PostgreSQL](https://github.com/leticiadluz/projetos_ADA/blob/main/banco_dados/Projeto_banco_dados.ipynb)
 
 ---
@@ -105,8 +105,7 @@ O propósito deste tópico é proporcionar uma visão geral abrangente dos princ
 - [Variáveis aleatórias discretas e suas distribuições em R](https://github.com/leticiadluz/estatistica_com_r_py/blob/main/5_variaveis_aleatorias_discretas_distribuicoes_R.ipynb)
 
 ---
-### Processamento de Dados em Machine Learning: Técnicas e Melhores Práticas
-![image](https://github.com/leticiadluz/leticiadluz.github.io/assets/138510840/d9be65b3-1de2-4763-8def-d55f63766ab5)
+### Processamento de Dados em Machine Learning: Técnicas e Melhores Práticas  <a name="ml-processamento"></a>
 
 **Objetivos:** Neste projeto, busquei abordar uma das dúvidas mais comuns no estudo de Machine Learning: o processamento de dados. Meu objetivo foi identificar e aplicar as melhores práticas, evitando armadilhas comuns e tornando o código mais reutilizável. Para isso, elaborei um resumo abrangente que explora os seguintes tópicos essenciais:
 - Técnicas para evitar vazamento de dados.
@@ -120,10 +119,6 @@ O propósito deste tópico é proporcionar uma visão geral abrangente dos princ
 - Exemplos completos de pipelines para automatizar o processo de pré-processamento e modelagem, tornando o código mais reutilizável e organizado.
 - Também explorei a decomposição de viés e variância tanto para regressão quanto para classificação, aprofundando-me além da simples premissa de underfitting, overfitting e complexidade de modelos, proporcionando uma compreensão mais sólida sobre esses conceitos.
 
-**Ferramentas Utilizadas:**
-  - Python
-  - Jupyter Notebook
-    
 Para acessar o projeto basta clicar em:  
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://leticiadluz.github.io/ml_introduction/resumo_ml.pdf)
 
