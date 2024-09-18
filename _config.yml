@@ -4,7 +4,7 @@ logo: "/Foto_perfil/foto_perfil.jpg" # your photo here
 description:
   <p align="center">
   <a href="https://www.linkedin.com/in/leticiadluz/">LinkedIn</a> |
-  <a href="https://leticiadluz.github.io//">Portfólio</a> |
+  <a href="https://https://leticiadluz.github.io/">Portfólio</a> |
   <a href="https://github.com/leticiadluz">GitHub</a> |
   <a href="mailto:leticiadluz@gmail.com">E-mail</a>
   </p>
@@ -17,9 +17,14 @@ description:
    </p>
  
    <p align="justify">
-   teste
-   teste
-   teste
+   <p align="center">
+   <a href="#projetos-ml">Projetos Machine Learning</a> 
+   <a href="#projetos-analise">Projetos Análise de Dados</a> 
+   <a href="#projetos-estatistica">Fundamentos da Estatística com Aplicações em R e Python</a> 
+   <a href="#ml-processamento">Processamento de Dados em Machine Learning</a> 
+   <a href="#projetos-estimadores">Estimadores em Machine Learning</a>
+</p>
+
 
  <br><br>
   </p>
