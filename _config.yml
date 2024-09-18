@@ -10,10 +10,14 @@ description:
   </p>
   
   <p align="justify">
-   Olá, este é o meu portfólio de projetos. 
+   Navegue pelos meus projetos utilizando os links abaixo
    <br>
-   Neste espaço, busco apresentar um pouco sobre as minhas habilidades para resolver problemas de negócios por meio de Análise de Dados, 
-   Estatística e Machine Learning utilizando as linguagens Python, R e SQL.  
+   <a href="#projetos-ml">Projetos Machine Learning</a> <br>
+   <a href="#projetos-analise">Projetos Análise de Dados</a> <br>
+   <a href="#projetos-estatistica">Fundamentos da Estatística com Aplicações em R e Python</a> <br>
+   <a href="#ml-processamento">Processamento de Dados em Machine Learning</a> <br>
+   <a href="#projetos-estimadores">Estimadores em Machine Learning</a>
+   </p> 
    </p>
    <p align="justify">
  <br><br>
