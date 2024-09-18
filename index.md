@@ -54,12 +54,12 @@ Para acessar o projeto basta clicar em:     [![View on GitHub](https://img.shiel
 **Ferramentas Utilizadas:**
   - Google Colab
   - Python  
-Para acessar o projeto basta clicar em:  
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/leticiadluz/ml_internet_provider_churn)
+#### Para acessar o projeto basta clicar em:  [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/leticiadluz/ml_internet_provider_churn)
 
 ---
 ### Ciência de Dados em Recursos Humanos
-![image](https://github.com/leticiadluz/leticiadluz.github.io/assets/138510840/d87a167e-8d6a-4699-9704-a364500a87be)
+![image](https://github.com/user-attachments/assets/5ce61a51-3138-42ee-8286-54ae6136d5a1)
+
 
 **Contexto:** Este projeto é dedicado à análise e compreensão das altas taxas de rotatividade de funcionários enfrentadas por uma empresa de tecnologia. Ele faz parte do desafio da Data Viking, onde foram disponibilizados dados reais de uma software house para os participantes interessados. A empresa tem experimentado uma rotatividade significativa de funcionários, chegando a 30% em alguns semestres. Essa alta taxa de rotatividade tem custos substanciais e impactos no negócio. 
 
