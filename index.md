@@ -1,5 +1,7 @@
 # Portfólio
-
+Olá, este é o meu portfólio de projetos.  
+Neste espaço, busco apresentar um pouco sobre as minhas habilidades para resolver problemas de negócios por meio de Análise de Dados, 
+Estatística e Machine Learning utilizando as linguagens Python, R e SQL.  
 ---
 ## Sobre mim
 Atualmente, estou em formação em Ciência de Dados pela Data Science Academy e recentemente concluí o Bootcamp de Data Science do programa Santander Coders, uma parceria entre a Ada Tech e a Santander Open Academy.   
