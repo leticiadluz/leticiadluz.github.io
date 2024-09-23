@@ -112,7 +112,7 @@ Neste projeto, busquei abordar uma das dúvidas mais comuns no estudo de Machine
 #### Para acessar o projeto basta clicar em:  [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://leticiadluz.github.io/ml_introduction/resumo_ml.pdf)
 
 ---
-## Estimadores em Machine Learning <a name="projetos-estimadores"></a>
+## Estimadores e métricas de avaliação em Machine Learning <a name="projetos-estimadores"></a>
 Aqui você encontra resumos que detalham o funcionamento dos estimadores em Machine Learning:  
 
 - [Árvores de Decisão](https://github.com/leticiadluz/estimadores/blob/main/decision_tree.ipynb)
