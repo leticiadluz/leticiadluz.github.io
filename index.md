@@ -113,7 +113,7 @@ Neste projeto, busquei abordar uma das dúvidas mais comuns no estudo de Machine
 
 ---
 ## Estimadores e métricas de avaliação em Machine Learning <a name="projetos-estimadores"></a>
-Aqui você encontra resumos que detalham o funcionamento dos estimadores em Machine Learning:  
+Aqui você encontra resumos que detalham o funcionamento dos estimadores em Machine Learning e as métricas de avaliação para classificação e regressão:  
 
 - [Árvores de Decisão](https://github.com/leticiadluz/estimadores/blob/main/decision_tree.ipynb)
 
