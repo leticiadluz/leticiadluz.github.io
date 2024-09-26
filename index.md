@@ -85,8 +85,8 @@ Meu objetivo é ajudar as empresas a superar desafios na tomada de decisões, fo
 
 ---
 
-## Fundamentos da Estatística com Aplicações em R e Python <a name="projetos-estatistica"></a>
-O propósito deste tópico é proporcionar uma visão geral abrangente dos principais conceitos da estatística, com foco na aplicação em linguagem R e Python.  
+## Estatística para Análise de Dados com Aplicações em R e Python <a name="projetos-estatistica"></a>
+O propósito deste tópico é proporcionar uma visão geral abrangente dos principais conceitos da estatística utilizados para análise de dados, com foco na aplicação em linguagem R e Python.  
 
 - [Estatística Descritiva para Variáveis Qualitativas em Python](https://github.com/leticiadluz/estatistica_com_r_py/blob/main/1_estatistica_descritiva_qualitativas__python.ipynb)
 - [Estatística Descritiva para Variáveis Quantitativas em R](https://github.com/leticiadluz/estatistica_com_r_py/blob/main/2_estatistica_descritiva_quantitativas_R.ipynb)
