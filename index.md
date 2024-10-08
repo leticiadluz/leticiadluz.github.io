@@ -118,6 +118,7 @@ Aqui você encontra resumos que detalham o funcionamento dos estimadores em Mach
 
 - [Métricas de Avaliação para Classificação](https://github.com/leticiadluz/resumo_estimadores/blob/main/classificacao_metricas.ipynb)
 - [Árvores de Decisão](https://github.com/leticiadluz/estimadores/blob/main/decision_tree.ipynb)
+- [Regressão Linear](https://github.com/leticiadluz/resumo_estimadores/blob/main/regressao_linear.ipynb)
 
 ---
 ## Certificados
