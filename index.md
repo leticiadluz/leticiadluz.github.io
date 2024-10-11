@@ -7,7 +7,7 @@ Minha trajetória na área de dados teve início durante minha atuação no seto
 
 Meu objetivo é ajudar as empresas a superar desafios na tomada de decisões, fornecendo soluções baseadas em dados e transformando informações em ideias que impulsionem o crescimento e a inovação..
 
-**Habilidades Técnicas:**  
+**Habilidades Técnicas:**    
 - Linguagens de Programação: R, Python e SQL  
 - Ferramentas: Git e Excel  
 
