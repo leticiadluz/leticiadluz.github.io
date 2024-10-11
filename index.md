@@ -5,7 +5,7 @@ Sou farmacêutica graduada pela Universidade Federal do Paraná, com experiênci
 
 Minha trajetória na área de dados teve início durante minha atuação no setor de epidemiologia, onde percebi o impacto significativo da análise de dados para melhoria de processos e geração de resultados positivos. Atualmente, estou cursando Ciência de Dados pela Data Science Academy e concluí a formação em Data Science no programa Santander Coders, uma parceria entre Ada Tech e Santander Open Academy.
 
-Meu objetivo é ajudar as empresas a superar desafios na tomada de decisões, fornecendo soluções baseadas em dados e transformando informações em ideias que impulsionem o crescimento e a inovação..
+Meu objetivo é ajudar as empresas a superar desafios na tomada de decisões, fornecendo soluções baseadas em dados e transformando informações em ideias que impulsionem o crescimento e a inovação.
 
 **Habilidades Técnicas:**    
 - Linguagens de Programação: R, Python e SQL  
