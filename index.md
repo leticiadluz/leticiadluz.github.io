@@ -1,11 +1,9 @@
 # Portfólio
 
 ## Sobre mim
-Sou farmacêutica graduada pela Universidade Federal do Paraná, com experiência em desenvolvimento de modelos supervisionados, não supervisionados, manipulação e análise de dados utilizando. Também tenho conhecimento em estatística e versionamento de código.  
+Sou farmacêutica graduada pela Universidade Federal do Paraná, com experiência em desenvolvimento de modelos supervisionados, não supervisionados, manipulação e análise de dados. Também tenho conhecimento em estatística e versionamento de código.  
 
-Minha trajetória na área de dados teve início durante minha atuação no setor de epidemiologia, onde percebi o impacto significativo da análise de dados para melhoria de processos e geração de resultados positivos.
-
-Atualmente, estou cursando Ciência de Dados pela Data Science Academy e concluí recentemente a formação em Data Science do programa Santander Coders, uma parceria entre a Ada Tech e a Santander Open Academy.
+Minha trajetória na área de dados teve início durante minha atuação no setor de epidemiologia, onde percebi o impacto significativo da análise de dados para melhoria de processos e geração de resultados positivos. Atualmente, estou cursando Ciência de Dados pela Data Science Academy e concluí a formação em Data Science no programa Santander Coders, uma parceria entre Ada Tech e Santander Open Academy.
 
 Meu objetivo é ajudar as empresas a superar desafios na tomada de decisões, fornecendo soluções baseadas em dados e transformando informações em ideias que impulsionem o crescimento e a inovação..
 
