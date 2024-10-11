@@ -1,13 +1,17 @@
 # Portfólio
 
 ## Sobre mim
-Atualmente, estou em formação em Ciência de Dados pela Data Science Academy e recentemente concluí o Bootcamp de Data Science do programa Santander Coders, uma parceria entre a Ada Tech e a Santander Open Academy.   
-Sou farmacêutica graduada pela Universidade Federal do Paraná e atuei em diversos setores da área da saúde. Meu interesse por dados surgiu durante minha experiência na área de epidemiologia, onde percebi o impacto significativo da análise de dados para a melhoria de processos.  
-Meu objetivo é ajudar as empresas a superar desafios na tomada de decisões, fornecendo soluções baseadas em dados e transformando informações em ideias que impulsionem o crescimento e a inovação.
+**Sou farmacêutica graduada pela Universidade Federal do Paraná, com experiência em desenvolvimento de modelos supervisionados, não supervisionados, manipulação e análise de dados utilizando as linguagens Python e R, além de SQL para banco de dados. Também tenho conhecimento em estatística e ferramentas como Git e Excel.**
+
+Minha trajetória na área de dados teve início durante minha atuação no setor de epidemiologia, onde percebi o impacto significativo da análise de dados para melhoria de processos e geração de resultados positivos.
+
+Atualmente, estou cursando Ciência de Dados pela Data Science Academy e concluí recentemente a formação em Data Science do programa Santander Coders, uma parceria entre a Ada Tech e a Santander Open Academy.
+
+Meu objetivo é ajudar as empresas a superar desafios na tomada de decisões, fornecendo soluções baseadas em dados e transformando informações em ideias que impulsionem o crescimento e a inovação..
 
 **Habilidades Técnicas:**  
-- Linguagens de Programação: R, Python
-- Análise de Dados: Excel, SQL
+- Linguagens de Programação: R, Python e SQL
+- Ferramentas: Git e Excel
 
 ---
 
