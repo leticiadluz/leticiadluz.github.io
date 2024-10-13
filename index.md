@@ -99,14 +99,14 @@ O objetivo deste tópico é proporcionar uma visão abrangente dos principais co
 ---
 ## Processamento de Dados em Machine Learning: Técnicas e Melhores Práticas  <a name="ml-processamento"></a>
 
-Neste projeto, busquei abordar uma das dúvidas mais comuns no estudo de Machine Learning: o processamento de dados. Meu objetivo foi identificar e aplicar as melhores práticas, evitando armadilhas comuns e tornando o código mais reutilizável. Para isso, elaborei um resumo abrangente que explora os seguintes tópicos essenciais:
+Neste projeto, busquei abordar uma das dúvidas mais em Machine Learning: o processamento de dados. Meu objetivo foi identificar e aplicar as melhores práticas, evitando armadilhas comuns e tornando o código mais reutilizável. Para isso, elaborei um resumo que explora os seguintes tópicos essenciais:
 - Técnicas para evitar vazamento de dados.
 - Tratamento de Valores Ausentes e Outliers.
 - Técnicas de Encoding: Comparação entre One-Hot, Target e CatBoost Encoder, explicando a premissa por trás de cada um deles.
 - Análise das características de diferentes técnicas scaling.
 - Estratégias para otimizar os parâmetros dos modelos para melhorar o desempenho.
 - Técnicas como holdout e validação cruzada para avaliar a performance do modelo de forma robusta.
-- Utilização de métodos wrapper, incorporados e de filtro para identificar as features mais relevantes.
+- Utilização de métodos wrapper, incorporados e de filtro para seleção das features mais relevantes.
 - Abordagens para lidar com datasets desbalanceados e a nova funcionalidade do scikit-learn 1.5 (TunedThresholdClassifierCV), que ajuda a ajustar os limiares de decisão de forma mais adequada.
 - Exemplos completos de pipelines para automatizar o processo de pré-processamento e modelagem, tornando o código mais reutilizável e organizado.
 - Também explorei a decomposição de viés e variância tanto para regressão quanto para classificação, aprofundando-me além da simples premissa de underfitting, overfitting e complexidade de modelos, proporcionando uma compreensão mais sólida sobre esses conceitos.
@@ -119,8 +119,8 @@ Aqui você encontra resumos que detalham o funcionamento dos estimadores em Mach
 
 
 - [Métricas de Avaliação para Classificação](https://github.com/leticiadluz/resumo_estimadores/blob/main/classificacao_metricas.ipynb)
-- [Árvores de Decisão](https://github.com/leticiadluz/estimadores/blob/main/decision_tree.ipynb)
 - [Regressão Linear](https://github.com/leticiadluz/resumo_estimadores/blob/main/regressao_linear.ipynb)
+- [Árvores de Decisão](https://github.com/leticiadluz/estimadores/blob/main/decision_tree.ipynb)
 
 ---
 ## Certificados
