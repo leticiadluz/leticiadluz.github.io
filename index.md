@@ -99,7 +99,7 @@ O objetivo deste tópico é proporcionar uma visão abrangente dos principais co
 ---
 ## Processamento de Dados em Machine Learning: Técnicas e Melhores Práticas  <a name="ml-processamento"></a>
 
-Neste projeto, busquei abordar uma das dúvidas mais em Machine Learning: o processamento de dados. Meu objetivo foi identificar e aplicar as melhores práticas, evitando armadilhas comuns e tornando o código mais reutilizável. Para isso, elaborei um resumo que explora os seguintes tópicos essenciais:
+Neste projeto, busquei abordar uma das dúvidas mais comuns em Machine Learning: o processamento de dados. Meu objetivo foi identificar e aplicar as melhores práticas, evitando armadilhas e tornando o código mais reutilizável. Para isso, elaborei um resumo que explora os seguintes tópicos essenciais:
 - Técnicas para evitar vazamento de dados.
 - Tratamento de Valores Ausentes e Outliers.
 - Técnicas de Encoding: Comparação entre One-Hot, Target e CatBoost Encoder, explicando a premissa por trás de cada um deles.
