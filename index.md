@@ -1,7 +1,8 @@
 # Portfólio
 
 ## Sobre mim
-Sou farmacêutica graduada pela Universidade Federal do Paraná e possuo experiência em projetos de desenvolvimento de modelos supervisionados, não supervisionados, manipulação e análise de dados. Também tenho conhecimento em estatística e versionamento de código.  
+Sou farmacêutica graduada pela Universidade Federal do Paraná e possuo experiência em projetos de 
+análise de dados, aplicando as linguagens Python, R e SQL. Também tenho conhecimento em desenvolvimento de modelos supervisionados e não supervisionados, além de habilidades em estatística e versionamento de código.
 
 Minha trajetória na área de dados iniciou durante minha atuação no setor de epidemiologia, onde percebi o impacto da análise de dados para melhoria de processos e geração de resultados positivos. Atualmente, estou cursando a formação Cientista de Dados pela Data Science Academy e concluí a formação em Data Science do programa Santander Coders.
 
