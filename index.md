@@ -16,7 +16,8 @@ Meu objetivo é ajudar as empresas a superar desafios na tomada de decisões, fo
 ## Projetos de Análise de Dados <a name="projetos-analise"></a>
 
 ### Análise RFV e Clusterização
-![image](https://github.com/user-attachments/assets/10cc5400-3c11-4ee6-b88e-169f5bdb5002)
+![image](https://github.com/user-attachments/assets/845adaec-d8d5-4746-9f2c-fa1320fd0f86)
+
 
 **Contexto:** Este projeto focou na segmentação de clientes de uma loja online por meio de análise RFV e clusterização, identificando padrões de comportamento de compra e desenvolvendo estratégias personalizadas para marketing e retenção.
 
