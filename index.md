@@ -13,6 +13,31 @@ Meu objetivo é ajudar as empresas a superar desafios na tomada de decisões, fo
 - Ferramentas: Git e Excel  
 
 ---
+## Projetos de Análise de Dados <a name="projetos-analise"></a>
+
+### Análise RFV e Clusterização
+![image](https://github.com/user-attachments/assets/10cc5400-3c11-4ee6-b88e-169f5bdb5002)
+
+**Contexto:** Este projeto focou na segmentação de clientes de uma loja online por meio de análise RFV e clusterização, identificando padrões de comportamento de compra e desenvolvendo estratégias personalizadas para marketing e retenção.
+
+**Objetivos:**
+- Implementar a metodologia CRISP-DM para orientar todas as etapas do projeto, desde o entendimento do negócio até a avaliação dos resultados.
+- Realizar uma análise RFV para segmentar os clientes em diferentes categorias com base em seu histórico de compras.
+- Aplicar o algoritmo KMeans para identificar grupos distintos de clientes e otimizar a segmentação.
+- Responder a cinco perguntas estratégicas para otimizar vendas e gestão de inventário.
+
+**Resultados:**
+- A análise RFM permitiu classificar os clientes em dez categorias, oferecendo uma visão clara dos grupos com maior valor e dos clientes em risco de churn.
+- A clusterização com KMeans identificou quatro clusters principais, revelando padrões de compra significativos.
+- Respondemos a cinco perguntas estratégicas de negócios, fornecendo informações detalhadas sobre os produtos mais vendidos, padrões sazonais, picos de vendas, clientes de maior valor e oportunidades para otimização do inventário.
+- Foram feitas recomendações estratégicas para otimizar o inventário, personalizar campanhas de marketing e melhorar a retenção de clientes, baseadas nos padrões de compra identificados.
+
+**Ferramentas e linguagens utilizadas:**
+- Python,
+- SQL
+- MySQL
+#### Para acessar o projeto basta clicar em:     [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/leticiadluz/analise_rfv)
+---
 
 ## Projetos de Machine Learning <a name="projetos-ml"></a>
 
@@ -27,12 +52,12 @@ Meu objetivo é ajudar as empresas a superar desafios na tomada de decisões, fo
 - Realizar o deploy do modelo na nuvem utilizando AWS, Vetiver e Plumber para tornar o modelo acessível pela internet.  
 
 **Resultados:**
-- Foram desenvolvidos cinco modelos de machine learning para a previsão de câncer de pulmão, com o modelo KNN alcançando um recall de 0.90 nos testes, usando ADASYN para balanceamento de classes. Apesar de espaço para melhorias, o modelo já consegue identificar casos de alto risco, aumentando as chances de tratamento eficaz.
+- Cinco modelos de machine learning foram desenvolvidos para prever câncer de pulmão, com o KNN alcançando um recall de 0.90 nos testes, usando ADASYN para balanceamento, identificando casos de alto risco e aumentando as chances de tratamento eficaz
 - O modelo foi disponibilizado via API em R, usando Plumber e Vetiver, e hospedado na AWS através do Elastic Container Service (ECS), garantindo acesso online.
 - A imagem Docker foi hospedada no Elastic Container Service (ECS) da AWS. Isso garantiu que o modelo fosse acessível pela internet.
 - Este projeto mostrou o potencial dos modelos de machine learning em prever câncer de pulmão e a viabilidade de seu deploy em ambientes de produção utilizando a AWS. 
 
-**Ferramentas e Cloud Utilizadas :**
+**Ferramentas, linguagens e Cloud utilizadas:**
 - Jupyter Notebook
 - Docker
 - R
@@ -43,17 +68,17 @@ Meu objetivo é ajudar as empresas a superar desafios na tomada de decisões, fo
 ### Previsão de Cancelamento de Serviço de Internet e Segmentação de Clientes
 ![image](https://github.com/user-attachments/assets/45f7431d-0632-4d6f-bdce-934a1206e80a)
 
-**Contexto:** Com a crescente competição entre os provedores de internet, manter os clientes existentes tornou-se uma prioridade para aumentar a receita. Diante desse cenário, entender o fenômeno do churn é crucial. Identificar os clientes com maior probabilidade de cancelar os serviços permite a implementação de estratégias eficazes de retenção.
+**Contexto:** A competição entre provedores de internet torna a retenção de clientes essencial. Compreender o churn é crucial para identificar clientes propensos ao cancelamento e aplicar estratégias eficazes de retenção.
 
 **Objetivos:** 
-- O primeiro objetivo é criar um modelo capaz de prever quando um cliente está prestes a cancelar seu serviço de internet.
-- O segundo objetivo é agrupar os clientes que cancelaram o serviço de internet usando técnicas de clusterização. Ao identificar grupos de clientes com características e comportamentos semelhantes, conseguimos desenvolver estratégias de marketing específicas para reter esses clientes.
+- Criar um modelo capaz de prever quando um cliente está prestes a cancelar seu serviço de internet.
+- Agrupar clientes que cancelaram o serviço de internet usando clusterização para identificar perfis semelhantes e desenvolver estratégias de marketing específicas para retenção.
 
 **Resultados:**
-- Construímos seis modelos de Machine Learning utilizando três estimadores. Realizamos pré-processamento das variáveis e otimização de hiperparâmetros. A métrica escolhida foi o recall. O modelo final, utilizando o estimador XGBoost, alcançou um recall de 0.94 nos dados de teste, indicando sua eficácia em identificar casos de churn. 
-- Realizamos também uma análise de clusterização com os clientes que cancelaram o serviço, usando os algoritmos K-Means e DBSCAN. Optamos pelo K-Means devido à sua eficiência computacional e capacidade de identificar uma segmentação mais detalhada dos dados, otimizando a diferenciação entre perfis de clientes.
+- Construímos seis modelos de Machine Learning com três estimadores, realizando pré-processamento e otimização de hiperparâmetros. O modelo final, usando XGBoost, alcançou um recall de 0.94 nos testes, mostrando eficácia na identificação de churn.
+- Realizamos uma análise de clusterização com clientes que cancelaram o serviço, usando K-Means e DBSCAN, optando pelo K-Means por sua eficiência e capacidade de segmentar detalhadamente os perfis de clientes.
   
-**Ferramentas Utilizadas:**
+**Ferramentas e linguagens utilizadas:**
   - Google Colab
   - Python
 
@@ -63,7 +88,7 @@ Meu objetivo é ajudar as empresas a superar desafios na tomada de decisões, fo
 ### Ciência de Dados em Recursos Humanos
 ![image](https://github.com/user-attachments/assets/5ce61a51-3138-42ee-8286-54ae6136d5a1)
 
-**Contexto:** Este projeto é dedicado à análise e compreensão das altas taxas de rotatividade de funcionários enfrentadas por uma empresa de tecnologia. Ele faz parte do desafio da Data Viking, onde foram disponibilizados dados reais de uma software house para os participantes interessados. A empresa tem experimentado uma rotatividade significativa de funcionários, chegando a 30% em alguns semestres. Essa alta taxa de rotatividade tem custos substanciais e impactos no negócio. 
+**Contexto:** Este projeto visa analisar as altas taxas de rotatividade de funcionários em uma empresa de tecnologia. Ele faz parte do desafio da Data Viking, onde foram disponibilizados dados reais de uma software house para os participantes interessados. A empresa enfrenta rotatividade significativa, chegando a 30% em alguns semestres, gerando custos substanciais e impactos no negócio.
 
 **Objetivos:** 
 - Utilizar técnicas de análise exploratória, modelos preditivos e clusterização para desenvolver estratégias mais eficazes de retenção e identificar fatores críticos que contribuem para o turnover.
@@ -76,15 +101,11 @@ Meu objetivo é ajudar as empresas a superar desafios na tomada de decisões, fo
 - Os padrões identificados podem ajudar a empresa a desenvolver estratégias específicas para reduzir o turnover.  
 - O projeto garantiu o 1º lugar entre mais de 500 inscritos no desafio.  
   
-**Ferramentas Utilizadas:**
+**Ferramentas e linguagens utilizadas:**
   - Google Colab
   - Python
     
 #### Para acessar o projeto basta clicar em:  [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/leticiadluz/HR_datascience_insights)
-
----
-## Projetos de Análise de Dados <a name="projetos-analise"></a>
-- [Análise Exploratória de Dados Literários com SQL e PostgreSQL](https://github.com/leticiadluz/projetos_ADA/blob/main/banco_dados/Projeto_banco_dados.ipynb)
 
 ---
 
