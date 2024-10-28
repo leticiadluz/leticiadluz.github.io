@@ -38,14 +38,13 @@ Meu objetivo é ajudar as empresas a superar desafios na tomada de decisões, fo
 - SQL
 - MySQL
   
-#### Para acessar o projeto basta clicar em:     [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/leticiadluz/analise_rfv)
+#### Para acessar o projeto basta clicar em:  [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/leticiadluz/analise_rfv)
 ---
 
 ## Projetos de Machine Learning <a name="projetos-ml"></a>
 
 ### Previsão de Câncer de Pulmão com R e Deploy na AWS ECS
-![image](https://github.com/user-attachments/assets/55594571-2889-4fb5-9397-fa71300e9ac5)
-
+![image](https://github.com/user-attachments/assets/a3da9ea0-1202-40b5-af3e-9174385ed66c)
 
 **Contexto:** Este projeto visa prever o risco de câncer de pulmão utilizando machine learning com Tidymodels em R. O modelo ajuda a compreender o risco de desenvolver câncer de pulmão baseado em diversos fatores, auxiliando na tomada de decisões na área da saúde. 
 
