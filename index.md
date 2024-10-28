@@ -44,7 +44,8 @@ Meu objetivo é ajudar as empresas a superar desafios na tomada de decisões, fo
 ## Projetos de Machine Learning <a name="projetos-ml"></a>
 
 ### Previsão de Câncer de Pulmão com R e Deploy na AWS ECS
-![image](https://github.com/user-attachments/assets/a3da9ea0-1202-40b5-af3e-9174385ed66c)
+![image](https://github.com/user-attachments/assets/3bcebe28-5773-430d-bea1-bf1bfeb0a3f3)
+
 
 **Contexto:** Este projeto visa prever o risco de câncer de pulmão utilizando machine learning com Tidymodels em R. O modelo ajuda a compreender o risco de desenvolver câncer de pulmão baseado em diversos fatores, auxiliando na tomada de decisões na área da saúde. 
 
