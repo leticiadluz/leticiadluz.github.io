@@ -89,7 +89,7 @@ Meu objetivo é ajudar as empresas a superar desafios na tomada de decisões, fo
 
 ---
 ### Ciência de Dados em Recursos Humanos
-![image](https://github.com/user-attachments/assets/5ce61a51-3138-42ee-8286-54ae6136d5a1)
+![image](https://github.com/user-attachments/assets/278c990c-d2d3-4f7f-83e8-a690660dcb00)
 
 **Contexto:** Este projeto visa analisar as altas taxas de rotatividade de funcionários em uma empresa de tecnologia. Ele faz parte do desafio da Data Viking, onde foram disponibilizados dados reais de uma software house para os participantes interessados. A empresa enfrenta rotatividade significativa, chegando a 30% em alguns semestres, gerando custos substanciais e impactos no negócio.
 
