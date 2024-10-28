@@ -69,7 +69,8 @@ Meu objetivo é ajudar as empresas a superar desafios na tomada de decisões, fo
 #### Para acessar o projeto basta clicar em:     [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/leticiadluz/ml_lung_cancer_deploy)
 ---
 ### Previsão de Cancelamento de Serviço de Internet e Segmentação de Clientes
-![image](https://github.com/user-attachments/assets/0c3ea255-b2ff-4cd7-a980-ffa87d6abb7d)
+![image](https://github.com/user-attachments/assets/b14165eb-3322-4a70-baae-166fe57e3df3)
+
 
 **Contexto:** A competição entre provedores de internet torna a retenção de clientes essencial. Compreender o churn é crucial para identificar clientes propensos ao cancelamento e aplicar estratégias eficazes de retenção.
 
