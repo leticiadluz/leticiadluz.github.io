@@ -33,9 +33,10 @@ Meu objetivo é ajudar as empresas a superar desafios na tomada de decisões, fo
 - Foram feitas recomendações estratégicas para otimizar o inventário, personalizar campanhas de marketing e melhorar a retenção de clientes, baseadas nos padrões de compra identificados.
 
 **Ferramentas e linguagens utilizadas:**
-- Python,
+- Python
 - SQL
 - MySQL
+  
 #### Para acessar o projeto basta clicar em:     [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/leticiadluz/analise_rfv)
 ---
 
