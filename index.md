@@ -37,6 +37,8 @@ Meu objetivo é ajudar as empresas a superar desafios na tomada de decisões, fo
 - Python
 - SQL
 - MySQL
+- Visual Studio Code
+- Git
   
 #### Para acessar o projeto basta clicar em:  [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/leticiadluz/analise_rfv)
 ---
