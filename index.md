@@ -105,7 +105,7 @@ Meu objetivo é ajudar as empresas a superar desafios na tomada de decisões, fo
 - Utilizamos uma abordagem de ensemble com VotingClassifier, obtendo um recall de 0.62 nos dados de teste, indicando bom desempenho na identificação de funcionários propensos a sair.  
 - Realizamos clusterização com K-Means, revelando que o Cluster 1 é composto por funcionários sêniores que fazem mais horas extras e recebem salários mais altos.  
 - Os padrões identificados podem ajudar a empresa a desenvolver estratégias específicas para reduzir o turnover.  
-- O projeto garantiu o 1º lugar entre mais de 500 inscritos no desafio.  
+- Meu projeto conquistou o 1º lugar entre mais de 500 participantes inscritos no desafio.  
   
 **Ferramentas e linguagens utilizadas:**
   - Google Colab
