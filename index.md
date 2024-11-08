@@ -1,7 +1,7 @@
 # Portfólio
 
 ## Sobre mim
-Possuo experiência em projetos de análise de dados, aplicando as linguagens Python, R e SQL. Também tenho conhecimento em desenvolvimento de modelos supervisionados e não supervisionados, além de habilidades em estatística, versionamento de código e visualização de dados com Power BI.
+Possuo experiência em projetos de análise de dados, aplicando as linguagens Python e SQL. Também tenho conhecimento em desenvolvimento de modelos supervisionados e não supervisionados, além de habilidades em estatística, versionamento de código e visualização de dados com Power BI.
 
 Minha formação inicial em Farmácia e minha experiência na área de Epidemiologia, com foco na análise de dados clínicos, deram origem à minha trajetória na área de dados. Durante esse período, percebi como a análise de dados pode impactar significativamente a melhoria de processos e potencializar a geração resultados positivos. Atualmente, estou cursando a formação Cientista de Dados pela Data Science Academy e concluí a formação em Data Science do programa Santander Coders.
 
