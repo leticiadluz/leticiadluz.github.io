@@ -1,16 +1,15 @@
 # Portfólio
 
 ## Sobre mim
-Sou farmacêutica graduada pela Universidade Federal do Paraná e possuo experiência em projetos de 
-análise de dados, aplicando as linguagens Python, R e SQL. Também tenho conhecimento em desenvolvimento de modelos supervisionados e não supervisionados, além de habilidades em estatística e versionamento de código.
+Possuo experiência em projetos de análise de dados, aplicando as linguagens Python, R e SQL. Também tenho conhecimento em desenvolvimento de modelos supervisionados e não supervisionados, além de habilidades em estatística, versionamento de código e visualização de dados com Power BI.
 
-Minha trajetória na área de dados iniciou durante minha atuação no setor de epidemiologia, onde percebi o impacto da análise de dados para melhoria de processos e geração de resultados positivos. Atualmente, estou cursando a formação Cientista de Dados pela Data Science Academy e concluí a formação em Data Science do programa Santander Coders.
+Minha formação inicial em Farmácia e minha experiência na área de Epidemiologia, com foco na análise de dados clínicos, deram origem à minha trajetória na área de dados. Durante esse período, percebi como a análise de dados pode impactar significativamente a melhoria de processos e potencializar a geração resultados positivos. Atualmente, estou cursando a formação Cientista de Dados pela Data Science Academy e concluí a formação em Data Science do programa Santander Coders.
 
 Meu objetivo é ajudar as empresas a superar desafios na tomada de decisões, fornecendo soluções baseadas em dados para impulsionar o crescimento e a inovação.
 
 **Habilidades Técnicas:**    
 - Linguagens de Programação: R, Python e SQL  
-- Ferramentas: Git e Excel  
+- Ferramentas: Excel, Git e Power BI. 
 
 ---
 ## Projetos de Análise de Dados <a name="projetos-analise"></a>
