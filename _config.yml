@@ -11,14 +11,15 @@ description:
   
   <p align="center">
    Olá, este é o meu portfólio de projetos.
-   Aqui, apresento minhas habilidades na resolução de problemas de negócios por meio de Análise de Dados, 
-   Estatística e Machine Learning.
+   Aqui, eu compartilho como aplico Análise de Dados, Estatística e Machine Learning 
+   na resolução de problemas de negócios.
    
    </p>
    <p align="center">
    <a href="#projetos-analise">؜؜Projetos de Análise de Dados</a> <br>
    <a href="#projetos-ml">Projetos de Machine Learning</a> <br>
    <a href="#projetos-estatistica">Estatística para Análise de Dados</a> <br>
+   <a href="#fundamentos-ed">Fundamentos de Engenharia de Dados</a> <br>
    <a href="#ml-processamento">Processamento de Dados para ML</a> <br>
    <a href="#projetos-estimadores">Estimadores em Machine Learning</a>
    </p> 
