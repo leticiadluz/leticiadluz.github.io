@@ -3,7 +3,7 @@
 ## Sobre mim
 Possuo experiência em projetos de análise de dados, desenvolvimento de modelos supervisionados e não supervisionados, além de habilidades em estatística, versionamento de código e visualização de dados com Power BI.
 
-Minha formação inicial em Farmácia e experiência em Epidemiologia, com foco na análise de dados clínicos, deram origem à minha trajetória na área de dados. Durante esse período, percebi como a análise de dados pode impactar significativamente a melhoria de processos e potencializar a geração resultados positivos. 
+Minha formação inicial em Farmácia e experiência em Epidemiologia, com foco na análise de dados epidemiológicos, deram origem à minha trajetória na área de dados. Durante esse período, percebi como a análise de dados pode impactar significativamente a melhoria de processos e potencializar a geração resultados positivos. 
 
 Atualmente, estou cursando a formação Cientista de Dados pela Data Science Academy e concluí a formação em Data Science do programa Santander Coders. Meu objetivo é ajudar as empresas a superar desafios na tomada de decisões, fornecendo soluções baseadas em dados para impulsionar o crescimento e a inovação.
 
