@@ -17,6 +17,10 @@
    {% seo %}
    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
    <style>
+      .wrapper {
+         width: 960px !important;
+         margin: 0 auto !important;
+      }
       footer {
          width: 300px !important;
          float: left !important;
@@ -30,7 +34,12 @@
          overflow: hidden !important;
          clear: both !important;
       }
+      div.wrapper {
+         width: auto !important;
+         margin: 0 !important;
+         padding: 20px !important;
       }
+      
    </style>
    <!--[if lt IE 9]>
    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
