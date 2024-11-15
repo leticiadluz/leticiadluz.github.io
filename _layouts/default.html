@@ -26,11 +26,11 @@
          <h1 style="text-align:center;"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
          {% if site.logo %}
          <!-- Aqui está a modificação da imagem de perfil com o estilo inline -->
-         <img src="{{ site.logo | relative_url }}" alt="Foto de Perfil" style="width:225px; height:auto; border-radius:50%; display: block; margin: 0 auto;" />
+         <img src="{{ site.logo | relative_url }}" alt="Foto de Perfil" style="width:220px; height:auto; border-radius:50%; display: block; margin: 0 auto;" />
          {% endif %}
          
          <!-- Modificação para permitir textos longos -->
-         <p style="text-align: justify; font-size: 15px; line-height: 1.5; max-width: 800px; margin: 0 auto; padding: 10px; height: auto; overflow: visible;">
+         <p style="text-align: justify; font-size: 16px; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 10px; height: auto; overflow: visible;">
             {{ site.description | default: site.github.project_tagline }}
          </p>
 
