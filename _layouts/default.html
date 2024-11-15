@@ -30,7 +30,7 @@
          {% endif %}
          
          <!-- Modificação para permitir textos longos -->
-         <p style="text-align: justify; font-size: 16px; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 10px; height: auto; overflow: visible;">
+         <p style="text-align: justify; font-size: 15px; line-height: 1.5; max-width: 800px; margin: 0 auto; padding: 10px; height: auto; overflow: visible;">
             {{ site.description | default: site.github.project_tagline }}
          </p>
 
@@ -48,7 +48,7 @@
       <section>
          {{ content }}
       </section>
-      <footer style="margin-top: 30px;">
+      <footer>
          {% if site.github.is_project_page %}
          <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
          {% endif %}
