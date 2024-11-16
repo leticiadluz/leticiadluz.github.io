@@ -114,7 +114,7 @@ Atualmente, estou cursando a formação Cientista de Dados pela Data Science Aca
 
 ---
 
-## Estatística Aplicada à Análise de Dados: Conceitos e Implementações em R e Python <a name="projetos-estatistica"></a>
+## Estatística Aplicada à Análise de Dados:<a name="projetos-estatistica"></a> Conceitos e Implementações em R e Python 
 O objetivo deste tópico é proporcionar uma visão abrangente dos principais conceitos estatísticos aplicados à análise de dados, com ênfase em suas implementações práticas nas linguagens R e Python.  
 
 - [Estatística Descritiva para Variáveis Qualitativas em Python](https://github.com/leticiadluz/estatistica_com_r_py/blob/main/1_estatistica_descritiva_qualitativas__python.ipynb)
