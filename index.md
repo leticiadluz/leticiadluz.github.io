@@ -124,7 +124,7 @@ O objetivo deste tópico é proporcionar uma visão abrangente dos principais co
 - [Variáveis aleatórias discretas e suas distribuições em R](https://github.com/leticiadluz/estatistica_com_r_py/blob/main/5_variaveis_aleatorias_discretas_distribuicoes_R.ipynb)
 
 ---
-## Processamento de Dados em Machine Learning: Técnicas e Melhores Práticas  <a name="ml-processamento"></a>
+## Processamento de Dados<a name="ml-processamento"></a> em Machine Learning: Técnicas e Melhores Práticas 
 
 Neste projeto, busquei abordar uma das dúvidas mais comuns em Machine Learning: o processamento de dados. Meu objetivo foi identificar e aplicar as melhores práticas, evitando armadilhas e tornando o código mais reutilizável. Para isso, elaborei um resumo que explora os seguintes tópicos essenciais:
 - Técnicas para evitar vazamento de dados.
