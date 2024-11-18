@@ -124,6 +124,12 @@ O objetivo deste tópico é proporcionar uma visão abrangente dos principais co
 - [Variáveis aleatórias discretas e suas distribuições em R](https://github.com/leticiadluz/estatistica_com_r_py/blob/main/5_variaveis_aleatorias_discretas_distribuicoes_R.ipynb)
 
 ---
+## Fundamentos de Engenharia de Dados <a name="fundamentos-ed"></a> 
+Este tópico tem como objetivo explorar os fundamentos essenciais do ciclo de vida dos dados em uma solução de Engenharia de Dados, abrangendo desde a origem até o preparo final para análise.
+
+- [Design e Normalização de Banco de Dados Relacionais e Banco de Dados NoSQL](https://github.com/leticiadluz/fundamentos_eng_dados/blob/main/1_bancodedados_relacionais_nrelacionais.pdf)
+
+---
 ## Processamento de Dados<a name="ml-processamento"></a> em Machine Learning: Técnicas e Melhores Práticas 
 
 Neste projeto, busquei abordar uma das dúvidas mais comuns em Machine Learning: o processamento de dados. Meu objetivo foi identificar e aplicar as melhores práticas, evitando armadilhas e tornando o código mais reutilizável. Para isso, elaborei um resumo que explora os seguintes tópicos essenciais:
