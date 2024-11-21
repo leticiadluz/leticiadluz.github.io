@@ -130,7 +130,7 @@ Nste tópico, explorei os fundamentos essenciais do ciclo de vida dos dados em u
 - [Design e Normalização de Banco de Dados SQL e Banco de Dados NoSQL](https://github.com/leticiadluz/fundamentos_eng_dados/blob/main/1_bancodedados_relacionais_nrelacionais.pdf)
 - ETL e ELT
 - Armazenamentos e Modelagem em Data Warehouse
-- Data Lake, Data Lakehouse e Delta Lake
+- Data Lake, Data Lakehouse, Delta Lake e Arquitetura Medalhão
 
 ---
 ## Processamento de Dados<a name="ml-processamento"></a> em Machine Learning: Técnicas e Melhores Práticas 
