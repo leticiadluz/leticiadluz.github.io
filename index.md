@@ -115,7 +115,7 @@ Atualmente, estou cursando a formação Cientista de Dados pela Data Science Aca
 ---
 
 ## Estatística Aplicada à Análise de Dados:<a name="projetos-estatistica"></a> Conceitos e Implementações em R e Python 
-O objetivo deste tópico é proporcionar uma visão abrangente dos principais conceitos estatísticos aplicados à análise de dados, com ênfase em suas implementações práticas nas linguagens R e Python.  
+Meu objetivo neste tópico foi proporcionar uma visão abrangente dos principais conceitos estatísticos aplicados à análise de dados, com ênfase em suas implementações práticas nas linguagens R e Python.  
 
 - [Estatística Descritiva para Variáveis Qualitativas em Python](https://github.com/leticiadluz/estatistica_com_r_py/blob/main/1_estatistica_descritiva_qualitativas__python.ipynb)
 - [Estatística Descritiva para Variáveis Quantitativas em R](https://github.com/leticiadluz/estatistica_com_r_py/blob/main/2_estatistica_descritiva_quantitativas_R.ipynb)
@@ -125,7 +125,7 @@ O objetivo deste tópico é proporcionar uma visão abrangente dos principais co
 
 ---
 ## Fundamentos de Engenharia de Dados <a name="fundamentos-ed"></a> 
-Este tópico tem como objetivo explorar os fundamentos essenciais do ciclo de vida dos dados em uma solução de Engenharia de Dados, abrangendo desde a origem até o preparo final para análise.
+Nste tópico, explorei os fundamentos essenciais do ciclo de vida dos dados em uma solução de Engenharia de Dados, abrangendo desde a origem até o preparo final para análise.
 
 - [Design e Normalização de Banco de Dados SQL e Banco de Dados NoSQL](https://github.com/leticiadluz/fundamentos_eng_dados/blob/main/1_bancodedados_relacionais_nrelacionais.pdf)
 - ETL e ELT
@@ -151,7 +151,7 @@ Neste projeto, busquei abordar uma das dúvidas mais comuns em Machine Learning:
 
 ---
 ## Estimadores e métricas de avaliação em Machine Learning <a name="projetos-estimadores"></a>
-Aqui você encontra resumos que detalham o funcionamento dos estimadores em Machine Learning e as métricas de avaliação para classificação e regressão:  
+Aqui, você encontra os resumos que preparei, detalhando o funcionamento dos estimadores em Machine Learning e as métricas de avaliação para classificação e regressão:  
 
 
 - [Métricas de Avaliação para Classificação](https://github.com/leticiadluz/resumo_estimadores/blob/main/classificacao_metricas.ipynb)
