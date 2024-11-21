@@ -128,6 +128,9 @@ O objetivo deste tópico é proporcionar uma visão abrangente dos principais co
 Este tópico tem como objetivo explorar os fundamentos essenciais do ciclo de vida dos dados em uma solução de Engenharia de Dados, abrangendo desde a origem até o preparo final para análise.
 
 - [Design e Normalização de Banco de Dados SQL e Banco de Dados NoSQL](https://github.com/leticiadluz/fundamentos_eng_dados/blob/main/1_bancodedados_relacionais_nrelacionais.pdf)
+- ETL e ELT
+- Armazenamentos e Modelagem em Data Warehouse
+- Data Lake, Data Lakehouse e Delta Lake
 
 ---
 ## Processamento de Dados<a name="ml-processamento"></a> em Machine Learning: Técnicas e Melhores Práticas 
