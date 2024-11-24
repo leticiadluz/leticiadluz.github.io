@@ -127,10 +127,10 @@ Meu objetivo neste tópico foi proporcionar uma visão abrangente dos principais
 ## Fundamentos de Engenharia de Dados <a name="fundamentos-ed"></a> 
 Nste tópico, explorei os fundamentos essenciais do ciclo de vida dos dados em uma solução de Engenharia de Dados, abrangendo desde a origem até o preparo final para análise.
 
-- [Design e Normalização de Banco de Dados SQL e Banco de Dados NoSQL](https://github.com/leticiadluz/fundamentos_eng_dados/blob/main/1_bancodedados_relacionais_nrelacionais.pdf)
-- [ETL e ELT](https://github.com/leticiadluz/fundamentos_eng_dados/blob/main/2_extracao_dados_etl_elt.pdf)
-- [Armazenamento e Modelagem em Data Warehouse](https://github.com/leticiadluz/fundamentos_eng_dados/blob/main/3_data_warehouse_modelagem%20.pdf)
-- [Data Lake, Data Lakehouse, Delta Lake e Arquitetura Medalhão](https://github.com/leticiadluz/fundamentos_eng_dados/blob/main/4_datalake_lakehouse_deltalake.pdf)
+- [ETL e ELT](https://github.com/leticiadluz/fundamentos_eng_dados/blob/main/1_extracao_dados_etl_elt.pdf)
+- [Armazenamento e Modelagem em Data Warehouse](https://github.com/leticiadluz/fundamentos_eng_dados/blob/main/2_data_warehouse_modelagem%20.pdf)
+- [Data Lake, Data Lakehouse, Delta Lake e Arquitetura Medalhão](https://github.com/leticiadluz/fundamentos_eng_dados/blob/main/3_datalake_lakehouse_deltalake.pdf)
+- [Conteúdo Extra:Design e Normalização de Banco de Dados SQL e Banco de Dados NoSQL](https://github.com/leticiadluz/fundamentos_eng_dados/blob/main/extra_bancodedados_sql_nosql.pdf)
 
 ---
 ## Processamento de Dados<a name="ml-processamento"></a> em Machine Learning: Técnicas e Melhores Práticas 
