@@ -130,7 +130,7 @@ Nste tópico, explorei os fundamentos essenciais do ciclo de vida dos dados em u
 - [ETL e ELT](https://github.com/leticiadluz/fundamentos_eng_dados/blob/main/1_extracao_dados_etl_elt.pdf)
 - [Armazenamento e Modelagem em Data Warehouse](https://github.com/leticiadluz/fundamentos_eng_dados/blob/main/2_data_warehouse_modelagem%20.pdf)
 - [Data Lake, Data Lakehouse, Delta Lake e Arquitetura Medalhão](https://github.com/leticiadluz/fundamentos_eng_dados/blob/main/3_datalake_lakehouse_deltalake.pdf)
-- [Conteúdo Extra:Design e Normalização de Banco de Dados SQL e Banco de Dados NoSQL](https://github.com/leticiadluz/fundamentos_eng_dados/blob/main/extra_bancodedados_sql_nosql.pdf)
+- [Conteúdo Extra: Design e Normalização de Banco de Dados SQL e Banco de Dados NoSQL](https://github.com/leticiadluz/fundamentos_eng_dados/blob/main/extra_bancodedados_sql_nosql.pdf)
 
 ---
 ## Processamento de Dados<a name="ml-processamento"></a> em Machine Learning: Técnicas e Melhores Práticas 
