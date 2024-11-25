@@ -135,17 +135,18 @@ Nste tópico, explorei os fundamentos essenciais do ciclo de vida dos dados em u
 ---
 ## Processamento de Dados<a name="ml-processamento"></a> em Machine Learning: Técnicas e Melhores Práticas 
 
-Neste projeto, busquei abordar uma das dúvidas mais comuns em Machine Learning: o processamento de dados. Meu objetivo foi identificar e aplicar as melhores práticas, evitando armadilhas e tornando o código mais reutilizável. Para isso, elaborei um resumo que explora os seguintes tópicos essenciais:
+Neste projeto, abordei as principais etapas de processamento de dados em Machine Learning, focando em boas práticas e evitando armadilhas para criar códigos mais reutilizáveis. O trabalho incluiu:  
+
 - Técnicas para evitar vazamento de dados.
 - Tratamento de Valores Ausentes e Outliers.
-- Técnicas de Encoding: Comparação entre One-Hot, Target e CatBoost Encoder, explicando a premissa por trás de cada um deles.
+- Encoding de variáveis categóricas: comparação entre One-Hot, Target e CatBoost Encoder.
 - Análise das características de diferentes técnicas scaling.
-- Estratégias para otimizar os parâmetros dos modelos para melhorar o desempenho.
-- Técnicas como holdout e validação cruzada para avaliar a performance do modelo de forma robusta.
-- Utilização de métodos wrapper, incorporados e de filtro para seleção das features mais relevantes.
-- Abordagens para lidar com datasets desbalanceados e a nova funcionalidade do scikit-learn 1.5 (TunedThresholdClassifierCV), que ajuda a ajustar os limiares de decisão de forma mais adequada.
-- Exemplos completos de pipelines para automatizar o processo de pré-processamento e modelagem, tornando o código mais reutilizável e organizado.
-- Também explorei a decomposição de viés e variância tanto para regressão quanto para classificação, aprofundando-me além da simples premissa de underfitting, overfitting e complexidade de modelos, proporcionando uma compreensão mais sólida sobre esses conceitos.
+- Métodos para ajustar parâmetros e melhorar desempenho.
+- Uso de holdout e validação cruzada para avaliar a performance de modelos.
+- Seleção de features: técnicas de filtro, wrapper e métodos incorporados.
+- Estratégias para balanceamento e uso do novo TunedThresholdClassifierCV para ajustar limiares de decisão.  
+- Exemplos completos de pipelines para automatizar o processo de pré-processamento e modelagem.
+- Decomposição detalhada de viés e variância para regressão e classificação.
 
 #### Para acessar o projeto basta clicar em:  [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://leticiadluz.github.io/ml_introduction/resumo_ml.pdf)
 
