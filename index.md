@@ -114,7 +114,7 @@ Atualmente, estou cursando a formação Cientista de Dados pela Data Science Aca
 
 ---
 
-## Estatística Aplicada à Análise de Dados:<a name="projetos-estatistica"></a> Conceitos e Implementações em R e Python 
+## Estatística Aplicada à Análise de Dados <a name="projetos-estatistica"></a>
 Meu objetivo neste tópico foi proporcionar uma visão abrangente dos principais conceitos estatísticos aplicados à análise de dados, com ênfase em suas implementações práticas nas linguagens R e Python.  
 
 - [Estatística Descritiva para Variáveis Qualitativas em Python](https://github.com/leticiadluz/estatistica_com_r_py/blob/main/1_estatistica_descritiva_qualitativas__python.ipynb)
@@ -133,7 +133,7 @@ Nste tópico, explorei os fundamentos essenciais do ciclo de vida dos dados em u
 - [Conteúdo Extra: Design e Normalização de Banco de Dados SQL e Banco de Dados NoSQL](https://github.com/leticiadluz/fundamentos_eng_dados/blob/main/extra_bancodedados_sql_nosql.pdf)
 
 ---
-## Processamento de Dados<a name="ml-processamento"></a> em Machine Learning 
+## Processamento de Dados<a name="ml-processamento"></a> para Machine Learning 
 
 Neste projeto, abordei uma das principais dúvidas em Machine Learning: o processamento de dados. Meu objetivo foi aplicar boas práticas, evitando erros comuns e promovendo a reutilização de código. O trabalho incluiu:
 
