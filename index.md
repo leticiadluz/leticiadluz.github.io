@@ -133,17 +133,17 @@ Nste tópico, explorei os fundamentos essenciais do ciclo de vida dos dados em u
 - [Conteúdo Extra: Design e Normalização de Banco de Dados SQL e Banco de Dados NoSQL](https://github.com/leticiadluz/fundamentos_eng_dados/blob/main/extra_bancodedados_sql_nosql.pdf)
 
 ---
-## Processamento de Dados<a name="ml-processamento"></a> em Machine Learning: Técnicas e Melhores Práticas 
+## Processamento de Dados<a name="ml-processamento"></a> em Machine Learning 
 
-Neste projeto, abordei uma das principais dúvidas em Machine Learning: o processamento de dados. Meu objetivo foi aplicar as melhores práticas, evitando erros comuns e promovendo a reutilização de código. O trabalho incluiu:
+Neste projeto, abordei uma das principais dúvidas em Machine Learning: o processamento de dados. Meu objetivo foi aplicar boas práticas, evitando erros comuns e promovendo a reutilização de código. O trabalho incluiu:
 
 - Técnicas para evitar vazamento de dados.
 - Tratamento de Valores Ausentes e Outliers.
 - Comparação entre One-Hot, Target e CatBoost Encoder.
 - Análise das características de diferentes técnicas scaling.
 - Métodos para ajustar parâmetros e melhorar desempenho.
-- Uso de holdout e validação cruzada para avaliar a performance de modelos.
-- Seleção de features: técnicas de filtro, wrapper e métodos incorporados.
+- Uso de holdout e validação cruzada para avaliar modelos.
+- Seleção de features: métodos de filtro, wrapper e embedded.
 - Estratégias para balanceamento e uso do novo TunedThresholdClassifierCV para ajustar limiares de decisão.  
 - Exemplos completos de pipelines para automatizar o processo de pré-processamento e modelagem.
 - Decomposição de viés e variância para regressão e classificação.
