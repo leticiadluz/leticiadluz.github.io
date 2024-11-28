@@ -1,6 +1,6 @@
 # Portfólio
 
-## Sobre mim
+## Sobre mim <a name="inicio"></a>
 Possuo experiência em projetos de análise de dados, desenvolvimento de modelos supervisionados e não supervisionados, além de habilidades em estatística, versionamento de código e visualização de dados com Power BI.
 
 Minha formação inicial em Farmácia e experiência em Epidemiologia, com foco na análise de dados epidemiológicos, deram origem à minha trajetória na área de dados. Durante esse período, percebi como a análise de dados pode impactar significativamente a melhoria de processos e potencializar a geração resultados positivos. 
@@ -133,7 +133,8 @@ Nste tópico, explorei os fundamentos essenciais do ciclo de vida dos dados em u
 - [Conteúdo Extra: Design e Normalização de Banco de Dados SQL e Banco de Dados NoSQL](https://github.com/leticiadluz/fundamentos_eng_dados/blob/main/extra_bancodedados_sql_nosql.pdf)
 
 ---
-## Processamento de Dados<a name="ml-processamento"></a> em Machine Learning 
+## Guia Prático de Machine Learning <a name="guia-prático"></a> 
+### 1 - Processamento de Dados em Machine Learning 
 
 Neste projeto, abordei uma das principais dúvidas em Machine Learning: o processamento de dados. Meu objetivo foi aplicar boas práticas, evitando erros comuns e promovendo a reutilização de código. O trabalho incluiu:
 
@@ -151,7 +152,7 @@ Neste projeto, abordei uma das principais dúvidas em Machine Learning: o proces
 #### Para acessar o projeto basta clicar em:  [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://leticiadluz.github.io/ml_introduction/resumo_ml.pdf)
 
 ---
-## Estimadores e métricas de avaliação em Machine Learning <a name="projetos-estimadores"></a>
+### 2 - Estimadores e métricas de avaliação em Machine Learning
 Aqui, você encontra os resumos que preparei, detalhando o funcionamento dos estimadores em Machine Learning e as métricas de avaliação para classificação e regressão:  
 
 
