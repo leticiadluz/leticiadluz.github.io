@@ -17,7 +17,7 @@ Atualmente, estou cursando a formação Cientista de Dados pela Data Science Aca
 ### Pipeline de Dados: ETL com Airflow, Python e Visualizações no Power BI
 ![image](https://github.com/user-attachments/assets/d4845070-9a1c-4774-b08a-b0e9c41f5cc7)
 
-**Contexto:** Este projeto teve como foco a construção de um pipeline de dados para análise de vendas de uma loja online fictícia, utilizando a FakeStoreAPI. Ele abrangeu todas as etapas de um processo ETL (Extração, Transformação e Carregamento), com o objetivo de orquestrar dados e transformar as informações em análises por meio de dashboards no Power BI.
+**Contexto:** Este projeto teve como foco a construção de um pipeline de dados para análise de vendas de uma loja online fictícia, utilizando a FakeStoreAPI. Ele abrangeu todas as etapas de um processo ETL (Extração, Transformação e Carregamento), além do desenvolvimento de dashboards no Power BI para visualização dos dados.
 
 **Objetivos:**
 - Implementar um pipeline ETL utilizando Docker, Airflow e PostgreSQL, demonstrando a integração dessas ferramentas.
