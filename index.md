@@ -38,6 +38,9 @@ Atualmente, estou cursando a formação Cientista de Dados pela Data Science Aca
 - Python
 - SQL
 - Visual Studio Code
+  
+#### Para acessar o projeto basta clicar em:  [![View on GitHub](https://github.com/leticiadluz/pipeline_analise_etl)
+---
 
 ### Análise RFV e Clusterização
 ![image](https://github.com/user-attachments/assets/845adaec-d8d5-4746-9f2c-fa1320fd0f86)
