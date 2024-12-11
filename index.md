@@ -14,6 +14,31 @@ Atualmente, estou cursando a formação Cientista de Dados pela Data Science Aca
 ---
 ## Projetos de Análise de Dados <a name="projetos-analise"></a>
 
+### Pipeline de Dados: ETL com Airflow, Python e Visualizações no Power BI
+![image](https://github.com/user-attachments/assets/835eec79-5f4d-4644-9a77-81899919b2a9)
+
+**Contexto:** Este projeto teve como foco a construção de um pipeline de dados para análise de vendas de uma loja online fictícia, utilizando a FakeStoreAPI. Ele abrangeu todas as etapas de um processo ETL (Extração, Transformação e Carregamento), com o objetivo de orquestrar dados e transformar as informações em análises por meio de dashboards no Power BI.
+
+**Objetivos:**
+- Implementar um pipeline ETL utilizando Docker, Airflow e PostgreSQL, demonstrando a integração dessas ferramentas.
+- Extrair e transformar dados da FakeStoreAPI, organizando informações sobre produtos, carrinhos e usuários para análises detalhadas.
+- Realizar análises descritivas e diagnósticas para identificar padrões de vendas e comportamento do consumidor.
+- Disponibilizar os dados transformados em um formato acessível para visualização analítica no Power BI.
+
+**Resultados:**
+- As análises revelaram que as categorias "men's clothing" e "electronics" lideram em volume de vendas. Recomenda-se investir em campanhas de marketing direcionadas a essas categorias, além de criar combos promocionais que combinem produtos mais vendidos com itens de menor desempenho, promovendo a diversificação e contribuindo para o aumento do ticket médio.
+- A análise revelou uma relação positiva entre as avaliações e o volume de vendas, indicando que produtos bem avaliados têm maior impacto nas vendas. Implementar um sistema automatizado que incentive os clientes a deixarem feedbacks pode resultar em um aumento do volume de vendas.
+- Alguns produtos receberam avaliações baixas, destacando a importância de uma análise detalhada para identificar os motivos dessas classificações. Essa abordagem permite implementar melhorias nos produtos, prevenindo impactos negativos na reputação da marca e fortalecendo a confiança dos clientes, além de impulsionar as vendas.
+
+**Ferramentas e linguagens utilizadas:**
+- Airflow
+- Docker
+- Git
+- PostgreSQL
+- Python
+- SQL
+- Visual Studio Code
+
 ### Análise RFV e Clusterização
 ![image](https://github.com/user-attachments/assets/845adaec-d8d5-4746-9f2c-fa1320fd0f86)
 
@@ -33,11 +58,11 @@ Atualmente, estou cursando a formação Cientista de Dados pela Data Science Aca
 - Foram feitas recomendações estratégicas para otimizar o inventário, personalizar campanhas de marketing e melhorar a retenção de clientes, baseadas nos padrões de compra identificados.
 
 **Ferramentas e linguagens utilizadas:**
+- Git
+- MySQL
 - Python
 - SQL
-- MySQL
 - Visual Studio Code
-- Git
   
 #### Para acessar o projeto basta clicar em:  [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/leticiadluz/analise_rfv)
 ---
@@ -62,10 +87,10 @@ Atualmente, estou cursando a formação Cientista de Dados pela Data Science Aca
 - Este projeto mostrou o potencial dos modelos de machine learning em prever câncer de pulmão e a viabilidade de seu deploy em ambientes de produção utilizando a AWS. 
 
 **Ferramentas, linguagens e Cloud utilizadas:**
-- Jupyter Notebook
-- Docker
-- R
 - AWS
+- Docker
+- Jupyter Notebook
+- R
 
 #### Para acessar o projeto basta clicar em:     [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/leticiadluz/ml_lung_cancer_deploy)
 ---
