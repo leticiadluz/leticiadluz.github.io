@@ -15,7 +15,7 @@ Atualmente, estou cursando a formação Cientista de Dados pela Data Science Aca
 ## Projetos de Análise de Dados <a name="projetos-analise"></a>
 
 ### Pipeline de Dados: ETL com Airflow, Python e Visualizações no Power BI
-![image](https://github.com/user-attachments/assets/835eec79-5f4d-4644-9a77-81899919b2a9)
+
 
 **Contexto:** Este projeto teve como foco a construção de um pipeline de dados para análise de vendas de uma loja online fictícia, utilizando a FakeStoreAPI. Ele abrangeu todas as etapas de um processo ETL (Extração, Transformação e Carregamento), com o objetivo de orquestrar dados e transformar as informações em análises por meio de dashboards no Power BI.
 
@@ -39,7 +39,7 @@ Atualmente, estou cursando a formação Cientista de Dados pela Data Science Aca
 - SQL
 - Visual Studio Code
   
-#### Para acessar o projeto basta clicar em:  [![View on GitHub](https://github.com/leticiadluz/pipeline_analise_etl)
+#### Para acessar o projeto basta clicar em:  [![View on GitHub](https://github.com/leticiadluz/pipeline_analise_etl.git)
 ---
 
 ### Análise RFV e Clusterização
@@ -67,7 +67,7 @@ Atualmente, estou cursando a formação Cientista de Dados pela Data Science Aca
 - SQL
 - Visual Studio Code
   
-#### Para acessar o projeto basta clicar em:  [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/leticiadluz/analise_rfv)
+#### Para acessar o projeto basta clicar em:  [![View on GitHub](https://github.com/leticiadluz/pipeline_analise_etl)
 ---
 
 ## Projetos de Machine Learning <a name="projetos-ml"></a>
