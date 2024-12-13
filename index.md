@@ -20,7 +20,7 @@ Atualmente, estou cursando a formação Cientista de Dados pela Data Science Aca
 **Contexto:** Este projeto teve como foco a construção de um pipeline de dados para análise de vendas de uma loja online fictícia, utilizando a FakeStoreAPI. Ele abrangeu todas as etapas de um processo ETL (Extração, Transformação e Carregamento), além do desenvolvimento de dashboards no Power BI para visualização dos dados.
 
 **Objetivos:**
-- Implementar um pipeline ETL utilizando Docker, Airflow e PostgreSQL, demonstrando a integração dessas ferramentas.
+- Implementar um pipeline ETL utilizando Python em conjunto com Docker, Airflow e PostgreSQL, demonstrando a integração dessas ferramentas.
 - Extrair e transformar dados da FakeStoreAPI, organizando informações sobre produtos, carrinhos e usuários para análises detalhadas.
 - Realizar análises descritivas e diagnósticas para identificar padrões de vendas e comportamento do consumidor.
 - Disponibilizar os dados transformados em um formato acessível para visualização analítica no Power BI.
