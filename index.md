@@ -34,6 +34,7 @@ Atualmente, estou cursando a formação Cientista de Dados pela Data Science Aca
 - Airflow
 - Docker
 - Git
+- Power BI
 - PostgreSQL
 - Python
 - SQL
