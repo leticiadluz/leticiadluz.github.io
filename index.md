@@ -1,7 +1,7 @@
 # Portfólio <a name="inicio"></a>
 
 ## Sobre mim 
-Profissional com experiência em análise de dados, incluindo desenvolvimento de modelos de machine learning supervisionados e não supervisionados, aplicação de técnicas estatísticas, versionamento de código e criação de visualizações de dados.  
+Profissional com experiência em análise de dados e conhecimento em desenvolvimento de modelos de machine learning supervisionados e não supervisionados, aplicação de técnicas estatísticas, versionamento de código e criação de visualizações de dados.  
 
 Minha formação em Farmácia, aliada à experiência em análise de dados na Saúde Pública, deram origem à minha trajetória na área de dados. Durante esse período, percebi como a análise de dados pode impactar significativamente a melhoria de processos e potencializar a geração de resultados positivos.  
 
