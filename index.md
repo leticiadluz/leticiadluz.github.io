@@ -10,7 +10,7 @@ Atualmente, estou cursando a formação Cientista de Dados pela Data Science Aca
 Meu objetivo é apoiar empresas na tomada de decisões estratégicas, oferecendo soluções baseadas em dados para impulsionar o crescimento e a inovação.    
 
 **Habilidades Técnicas:**    
-- Linguagens: R, Python e SQL  
+- Linguagens: Python, R e SQL  
 - Ferramentas: Docker, Excel, Git e Power BI. 
 
 ---
