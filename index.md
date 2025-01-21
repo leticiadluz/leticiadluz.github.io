@@ -203,5 +203,5 @@ Entre em contato comigo por meio de:
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">](mailto:leticiadluz@gmail.com) 
 
 
-© 2024 Leticia da Luz. 
+© 2025 Leticia da Luz. 
 
