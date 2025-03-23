@@ -44,8 +44,9 @@ Meu objetivo é apoiar empresas na tomada de decisões estratégicas, oferecendo
   
 #### Para acessar o projeto basta clicar em:      [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/leticiadluz/pipeline_analise_etl)
 ---
-Análise de Conversão de Clientes com Teste A/B
-![image](https://github.com/user-attachments/assets/294d7b32-5f6c-4137-9136-aa56d0c8b070)
+### Análise de Conversão de Clientes com Teste A/B
+![image](https://github.com/user-attachments/assets/fabe2652-bbed-42e8-b0a6-7f3e14324880)
+
 
 **Contexto:** Este projeto teve como foco avaliar o impacto da oferta de um voucher de 15% de desconto em compras acima de R$100 sobre a taxa de conversão de clientes em um e-commerce, utilizando um teste A/B controlado com dados gerados sinteticamente para fins de demonstração de análise estatística em um cenário de e-commerce.
 
