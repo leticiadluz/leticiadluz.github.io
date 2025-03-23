@@ -11,7 +11,7 @@ Meu objetivo é apoiar empresas na tomada de decisões estratégicas, oferecendo
 
 **Habilidades Técnicas:**    
 - Linguagens: Python, R e SQL  
-- Ferramentas: Docker, Excel, Git e Power BI. 
+- Ferramentas: Docker, Excel, Git, Power BI e QuickSight. 
 
 ---
 ## Projetos de Análise de Dados <a name="projetos-analise"></a>
@@ -44,7 +44,32 @@ Meu objetivo é apoiar empresas na tomada de decisões estratégicas, oferecendo
   
 #### Para acessar o projeto basta clicar em:      [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/leticiadluz/pipeline_analise_etl)
 ---
+Análise de Conversão de Clientes com Teste A/B
+![image](https://github.com/user-attachments/assets/294d7b32-5f6c-4137-9136-aa56d0c8b070)
 
+**Contexto:** Este projeto teve como foco avaliar o impacto da oferta de um voucher de 15% de desconto em compras acima de R$100 sobre a taxa de conversão de clientes em um e-commerce, utilizando um teste A/B controlado com dados gerados sinteticamente para fins de demonstração de análise estatística em um cenário de e-commerce.
+
+**Objetivos:**
+- Construir uma base de dados estruturada de forma a evitar viés e cálcular o tamanho amostral com base em poder estatístico, assegurando a robustez dos resultados.
+- Inserir os dados no banco PostgreSQL para aplicar consultas SQL e responder a perguntas estratégicas de negócio sobre comportamento do cliente e desempenho da campanha.
+- Aplicar o teste Z para duas proporções, via Python conectado ao banco de dados, para verificar se o uso do cupom afeta a conversão de clientes e interpretar o intervalo de confiança de 95% para reforçar a confiabilidade dos resultados.
+- Avaliar diferenças de comportamento por canal de comunicação, faixa etária, gênero e ticket médio.
+
+**Resultados:**
+- O teste A/B mostrou que o grupo com voucher teve uma taxa de conversão de 42,86%, contra 10,95% no grupo controle, com valor-p extremamente baixo e intervalo de confiança (95%) entre 28,37% e 35,44%, confirmando impacto significativo da ação promocional.
+- A conversão foi consistente entre gêneros e faixas etárias, com destaque para o grupo de 18–25 anos.
+- O canal de comunicação (e-mail vs WhatsApp) apresentou desempenho similar, permitindo flexibilidade de escolha.
+- Com base nos resultados, foram elaboradas recomendações para ajustar o valor mínimo do cupom, segmentar campanhas de forma mais eficiente e buscar um equilíbrio entre volume de conversões e valor gerado por pedido.
+
+**Ferramentas e linguagens utilizadas:**
+- Git
+- PostgreSQL
+- Python
+- SQL
+- Visual Studio Code
+
+  #### Para acessar o projeto basta clicar em:      [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/leticiadluz/analise_conversao_clientes)
+---
 ### Análise RFV e Clusterização
 ![image](https://github.com/user-attachments/assets/845adaec-d8d5-4746-9f2c-fa1320fd0f86)
 
