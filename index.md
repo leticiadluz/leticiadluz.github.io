@@ -6,6 +6,7 @@ Profissional com experiência em análise de dados e habilidades em desenvolvime
 Minha experiência em análise de dados na Saúde Pública durante a graduação, deu origem à minha trajetória na área. Durante esse período, percebi como a análise de dados pode impactar significativamente a melhoria de processos e potencializar a geração de resultados positivos.     
    
 Meu objetivo é apoiar empresas na tomada de decisões, oferecendo soluções baseadas em dados para impulsionar o crescimento e a inovação.    
+
 **Habilidades Técnicas:**    
 - Linguagens: Python e SQL  
 - Ferramentas: Airflow, Docker, Excel, Git, Power BI e QuickSight. 
