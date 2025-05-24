@@ -42,7 +42,7 @@ Meu objetivo é apoiar empresas na tomada de decisões, oferecendo soluções ba
 - Visual Studio Code  
 
 #### Para acessar o projeto basta clicar em:      [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/leticiadluz/recomendacao_produtos)
-
+---
 ### Pipeline de Dados: ETL com Airflow, Python e Visualizações no Power BI
 ![image](https://github.com/user-attachments/assets/d4845070-9a1c-4774-b08a-b0e9c41f5cc7)
 
