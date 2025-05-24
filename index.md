@@ -10,9 +10,8 @@ Meu objetivo é apoiar empresas na tomada de decisões, oferecendo soluções ba
 **Habilidades Técnicas:**    
 - Linguagens: Python e SQL  
 - Ferramentas: Airflow, Docker, Excel, Git, Power BI e QuickSight. 
-
 ---
-## Projetos de Análise de Dados <a name="projetos-analise"></a>
+## Projetos End to End <a name="projetos-end-to-end"></a>
 
 ### Pipeline de Dados: ETL com Airflow, Python e Visualizações no Power BI
 ![image](https://github.com/user-attachments/assets/d4845070-9a1c-4774-b08a-b0e9c41f5cc7)
@@ -42,9 +41,11 @@ Meu objetivo é apoiar empresas na tomada de decisões, oferecendo soluções ba
   
 #### Para acessar o projeto basta clicar em:      [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/leticiadluz/pipeline_analise_etl)
 ---
+
+## Projetos de Análise de Dados <a name="projetos-analise"></a>
+
 ### Análise de Conversão de Clientes com Teste A/B
 ![image](https://github.com/user-attachments/assets/fabe2652-bbed-42e8-b0a6-7f3e14324880)
-
 
 **Contexto:** Este projeto teve como foco avaliar o impacto da oferta de um voucher de 15% de desconto em compras acima de R$100 sobre a taxa de conversão de clientes em um e-commerce, utilizando um teste A/B controlado com dados gerados sinteticamente para fins de demonstração de análise estatística em um cenário de e-commerce.
 
@@ -188,7 +189,7 @@ Nste tópico, explorei os fundamentos essenciais do ciclo de vida dos dados em u
 - [Conteúdo Extra: Design e Normalização de Banco de Dados SQL e Banco de Dados NoSQL](https://github.com/leticiadluz/fundamentos_eng_dados/blob/main/extra_bancodedados_sql_nosql.pdf)
 
 ---
-## Guia Prático de Machine Learning <a name="guia-prático"></a> 
+## Guia Prático de Machine Learning 
 ### Processamento de Dados em Machine Learning 
 
 Neste projeto, abordei uma das principais dúvidas em Machine Learning: o processamento de dados. Meu objetivo foi aplicar boas práticas, evitando erros comuns e promovendo a reutilização de código. O trabalho incluiu:
