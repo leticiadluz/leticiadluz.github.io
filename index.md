@@ -14,6 +14,33 @@ Meu objetivo é apoiar empresas na tomada de decisões, oferecendo soluções ba
 ---
 ## Projetos End to End <a name="projetos-end-to-end"></a>
 
+### Pipeline para Recomendação de Produtos com Apriori, dbt Core, Snowflake e Airflow
+![image](https://github.com/user-attachments/assets/3c2011ea-a406-40cd-b7ac-7604181e5a22)
+
+**Contexto:** Este projeto simula um e-commerce de artigos esportivos e tem como objetivo construir um pipeline ELT completo para identificar padrões de compra entre produtos com base na técnica de Market Basket Analysis (MBA), aplicando o algoritmo Apriori para gerar recomendações.
+
+**Objetivos:** 
+- Desenvolver um pipeline ELT com ingestão, transformação e modelagem de dados usando dbt Core, Snowflake e Apache Airflow com Astro CLI.
+- Executar a limpeza, padronização e validação de dados simulados, criados de forma sintética para representar situações comuns em ambientes reais.
+- Modelar os dados em camadas (staging, intermediate, marts) seguindo boas práticas de engenharia de dados com dbt.
+- Identificar regras de associação relevantes com o algoritmo Apriori (Python + mlxtend) baseado em métricas como suporte, confiança e lift.
+- Automatizar o fluxo completo com Airflow, integrando a execução das transformações e dos scripts analíticos.
+
+**Resultados:**
+- Regras com lift > 2 foram identificadas, revelando associações fortes entre produtos esportivos.
+- Produtos com suporte acima de 1% foram priorizados, otimizando o desempenho e a relevância do modelo Apriori.
+- A estrutura modular com dbt e Airflow garantiu versionamento, rastreabilidade e reusabilidade, sendo adaptável a dados reais.
+
+**Ferramentas e Tecnologias Utilizadas:**
+- Airflow
+- dbt Core
+- Docker
+- Git
+- Python
+- Snowflake
+- SQL
+- Visual Studio Code
+
 ### Pipeline de Dados: ETL com Airflow, Python e Visualizações no Power BI
 ![image](https://github.com/user-attachments/assets/d4845070-9a1c-4774-b08a-b0e9c41f5cc7)
 
