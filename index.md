@@ -9,7 +9,8 @@ Meu objetivo é apoiar empresas na tomada de decisões, oferecendo soluções ba
 
 **Habilidades Técnicas:**    
 - Linguagens: Python e SQL  
-- Ferramentas: Airflow, Docker, Excel, Git, Power BI e QuickSight. 
+- Ferramentas: Airflow, Docker, Excel, Git, Power BI e QuickSight.  
+   
 ---
 ## Projetos End to End <a name="projetos-end-to-end"></a>
 
