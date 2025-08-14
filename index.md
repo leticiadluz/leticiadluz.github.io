@@ -1,7 +1,7 @@
 # Portfólio <a name="inicio"></a>
 
 ## Sobre mim 
-Profissional com experiência em análise de dados e analytics engineer. Tenho habilidades em modelagem de dados, construção de pipelines ETL e ELT, desenvolvimento de modelos preditivos, aplicação de testes estatísticos, versionamento de código e criação de dashboards analíticos.
+Profissional com experiência em análise de dados e engenharia de analytics. Tenho habilidades em modelagem de dados, construção de pipelines ETL e ELT, desenvolvimento de modelos preditivos, aplicação de testes estatísticos, versionamento de código e criação de dashboards analíticos.
 
 Minha experiência em análise de dados na Saúde Pública durante a graduação, deu origem à minha trajetória na área. Durante esse período, percebi como a análise de dados pode impactar significativamente a melhoria de processos e potencializar a geração de resultados positivos.     
    
