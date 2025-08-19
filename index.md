@@ -43,6 +43,31 @@ Meu objetivo é apoiar empresas na tomada de decisões, oferecendo soluções ba
 
 #### Para acessar o projeto basta clicar em:      [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/leticiadluz/recomendacao_produtos)
 ---
+### Pipeline de Dados para Avaliação de Estudos Científicos com Python, MongoDB e NLP via OpenAI API
+<img width="516" height="312" alt="image" src="https://github.com/user-attachments/assets/7e2baf8d-f42d-4e6c-918a-a6a09a3ea4b1" />
+
+**Contexto:** Este projeto tem como objetivo construir um pipeline de dados para avaliar automaticamente a qualidade metodológica de estudos científicos sobre rastreamento do câncer de próstata com PSA, utilizando processamento de linguagem natural (NLP) com a API da OpenAI. A base de artigos foi extraída da Europe PMC API.
+
+**Objetivos:**
+- Construir um pipeline completo com extração via API, pré-processamento textual com Python e armazenamento em MongoDB.
+- Extrair seções estruturadas de artigos científicos em PDF usando PyMuPDF e expressões regulares.
+- Avaliar os artigos automaticamente com a API da OpenAI, usando prompts baseados em critérios da saúde baseada em evidências.
+- Garantir reprodutibilidade e segurança do ambiente com Poetry, dotenv e versionamento via pyproject.toml.
+
+**Resultados:**
+- Dos 15 artigos processados, 7 foram validados com sucesso e avaliados automaticamente.
+- Foram geradas notas estruturadas para metodologia, resultados e discussão, com justificativas automatizadas.
+- Limitações de extração textual em PDFs e interpretação incorreta do modelo em casos ambíguos mostraram a importância da validação humana e do refinamento contínuo dos prompts.
+- A solução mostrou-se escalável e eficiente, permitindo avaliar grandes volumes de artigos de forma padronizada e replicável, com arquitetura reutilizável para projetos semelhantes.
+
+**Ferramentas e linguagens utilizadas:**
+- Git
+- MongoDB
+- Python
+- Visual Studio Code
+  
+#### Para acessar o projeto basta clicar em:      [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/leticiadluz/pipeline_estudo_cientifico_psa)
+---
 ### Pipeline de Dados: ETL com Airflow, Python e Visualizações no Power BI
 ![image](https://github.com/user-attachments/assets/d4845070-9a1c-4774-b08a-b0e9c41f5cc7)
 
