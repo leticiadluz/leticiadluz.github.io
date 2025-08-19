@@ -52,7 +52,7 @@ Meu objetivo é apoiar empresas na tomada de decisões, oferecendo soluções ba
 - Construir um pipeline completo com extração via API, pré-processamento textual com Python e armazenamento em MongoDB.
 - Extrair seções estruturadas de artigos científicos em PDF usando PyMuPDF e expressões regulares.
 - Avaliar os artigos automaticamente com a API da OpenAI, usando prompts baseados em critérios da saúde baseada em evidências.
-- Garantir reprodutibilidade e segurança do ambiente com Poetry, dotenv e versionamento via pyproject.toml.
+- Garantir reprodutibilidade e segurança do ambiente com Poetry e dotenv.
 
 **Resultados:**
 - Dos 15 artigos processados, 7 foram validados com sucesso e avaliados automaticamente.
