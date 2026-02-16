@@ -1,7 +1,7 @@
 # Portfólio <a name="inicio"></a>
 
 ## Sobre mim 
-Profissional com experiência em análise de dados e engenharia de analytics. Tenho habilidades em modelagem de dados, construção de pipelines, versionamento de código e criação de dashboards analíticos.
+Profissional com experiência em análise de dados e engenharia de análise. Tenho habilidades em modelagem de dados, construção de pipelines, desenvolvimento de soluções end-to-end e criação de dashboards analíticos.  
 
 Minha experiência em análise de dados na Saúde Pública durante a graduação, deu origem à minha trajetória na área. Durante esse período, percebi como a análise de dados pode impactar significativamente a melhoria de processos e potencializar a geração de resultados positivos.     
    
@@ -9,7 +9,7 @@ Meu objetivo é apoiar empresas na tomada de decisões, oferecendo soluções ba
 
 **Habilidades Técnicas:**    
 - Linguagens: Python e SQL  
-- Ferramentas: Airflow, dbt, Git, Grafana, Power BI e QuickSight.  
+- Ferramentas: Airflow, Amazon QuickSight, dbt, Git, Grafana e Power BI.  
    
 ---
 ## Projetos End to End <a name="projetos-end-to-end"></a>
