@@ -243,6 +243,7 @@ Nste tópico, explorei os fundamentos essenciais do ciclo de vida dos dados em u
 - [Armazenamento e Modelagem em Data Warehouse](https://github.com/leticiadluz/fundamentos_eng_dados/blob/main/2_data_warehouse_modelagem%20.pdf)
 - [Data Lake, Data Lakehouse, Delta Lake e Arquitetura Medalhão](https://github.com/leticiadluz/fundamentos_eng_dados/blob/main/3_datalake_lakehouse_deltalake.pdf)
 - [Conteúdo Extra: Design e Normalização de Banco de Dados SQL e Banco de Dados NoSQL](https://github.com/leticiadluz/fundamentos_eng_dados/blob/main/extra_bancodedados_sql_nosql.pdf)
+- [Workflows Confiáveis em Python](https://github.com/leticiadluz/fundamentos_eng_dados/blob/main/extra_workflows_confiaveis_python.pdf)
 
 ---
 ## Guia Prático de Machine Learning 
