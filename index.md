@@ -1,7 +1,7 @@
 # Portfólio <a name="inicio"></a>
 
 ## Sobre mim 
-Profissional com experiência em análise de dados e engenharia de análise. Tenho habilidades em modelagem de dados, construção de pipelines, desenvolvimento de soluções end-to-end e criação de dashboards analíticos.  
+Profissional com experiência em análise de dados e engenharia de análise. Tenho habilidades em construção de pipelines, desenvolvimento de soluções end-to-end e criação de dashboards analíticos.  
 
 Minha experiência em análise de dados na Saúde Pública durante a graduação, deu origem à minha trajetória na área. Durante esse período, percebi como a análise de dados pode impactar significativamente a melhoria de processos e potencializar a geração de resultados positivos.     
    
